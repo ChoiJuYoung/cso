@@ -1,0 +1,370 @@
+
+ If MT = 1 And 종족(Oee) = 1 Then
+ 
+ AT = Val(AT) + 1 * Val(PlusMinus)
+ R = Val(R) + 1 * Val(PlusMinus)
+ St = Val(St) + 1 * Val(PlusMinus)
+ Am = Val(Am) + 1 * Val(PlusMinus)
+ De = Val(De) + 1 * Val(PlusMinus)
+ Pa = Val(Pa) + 1 * Val(PlusMinus)
+ Se = Val(Se) + 3 * Val(PlusMinus)
+ Co = Val(Co) + 1 * Val(PlusMinus)
+ 공격력(Oee) = Val(공격력(Oee)) - 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) - 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) - 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) - 1 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) - 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) - 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) - 3 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) - 1 * Val(PlusMinus)
+ AW = Val(AW) + 1
+ TW = Val(TW) + 1
+ 
+ 
+ 
+ ElseIf MT = 1 And 종족(Oee) = 2 Then
+ Co = Val(Co) + 3 * Val(PlusMinus)
+ AT = Val(AT) + 2 * Val(PlusMinus)
+ St = Val(St) + 2 * Val(PlusMinus)
+ R = Val(R) + 1 * Val(PlusMinus)
+ Am = Val(Am) + 1 * Val(PlusMinus)
+ De = Val(De) + 1 * Val(PlusMinus)
+ Pa = Val(Pa) + 1 * Val(PlusMinus)
+ Se = Val(Se) + 1 * Val(PlusMinus)
+ 공격력(Oee) = Val(공격력(Oee)) - 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) - 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) - 2 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) - 2 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) - 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) - 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) - 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) - 1 * Val(PlusMinus)
+ AW = Val(AW) + 1
+ ZW = Val(ZW) + 1
+ 
+ 
+ ElseIf MT = 1 And 종족(Oee) = 3 Then
+ AT = Val(AT) + 2 * Val(PlusMinus)
+ R = Val(R) + 1 * Val(PlusMinus)
+ St = Val(St) + 1 * Val(PlusMinus)
+ Am = Val(Am) + 2 * Val(PlusMinus)
+ De = Val(De) + 3 * Val(PlusMinus)
+ Pa = Val(Pa) + 1 * Val(PlusMinus)
+ Se = Val(Se) + 1 * Val(PlusMinus)
+ Co = Val(Co) + 1 * Val(PlusMinus)
+ 공격력(Oee) = Val(공격력(Oee)) - 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) - 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) - 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) - 3 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) - 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) - 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) - 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) - 1 * Val(PlusMinus)
+ AW = Val(AW) + 1
+ PW = Val(PW) + 1
+ 
+ ElseIf MT = 2 And 종족(Oee) = 1 Then
+ AT = Val(AT) + 2 * Val(PlusMinus)
+ R = Val(R) + 2 * Val(PlusMinus)
+ St = Val(St) + 3 * Val(PlusMinus)
+ Am = Val(Am) + 4 * Val(PlusMinus)
+ De = Val(De) + 2 * Val(PlusMinus)
+ Pa = Val(Pa) + 2 * Val(PlusMinus)
+ Se = Val(Se) + 2 * Val(PlusMinus)
+ Co = Val(Co) + 2 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) - 5 * Val(PlusMinus)
+ 공격력(Oee) = Val(공격력(Oee)) - 4 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) - 3 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) - 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) - 1 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) - 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) - 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) - 1 * Val(PlusMinus)
+ AW = Val(AW) + 1
+ TW = Val(TW) + 1
+ 
+ ElseIf MT = 2 And 종족(Oee) = 2 Then
+ AT = Val(AT) + 1 * Val(PlusMinus)
+ R = Val(R) + 1 * Val(PlusMinus)
+ St = Val(St) + 1 * Val(PlusMinus)
+ Am = Val(Am) + 1 * Val(PlusMinus)
+ De = Val(De) + 1 * Val(PlusMinus)
+ Pa = Val(Pa) + 1 * Val(PlusMinus)
+ Se = Val(Se) + 2 * Val(PlusMinus)
+ Co = Val(Co) + 3 * Val(PlusMinus)
+ 공격력(Oee) = Val(공격력(Oee)) - 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) - 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) - 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) - 1 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) - 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) - 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) - 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) - 3 * Val(PlusMinus)
+ AW = Val(AW) + 1
+ ZW = Val(ZW) + 1
+ 
+ ElseIf MT = 2 And 종족(Oee) = 3 Then
+  AT = Val(AT) + 2 * Val(PlusMinus)
+ R = Val(R) + 2 * Val(PlusMinus)
+ St = Val(St) + 1 * Val(PlusMinus)
+ Am = Val(Am) + 1 * Val(PlusMinus)
+ De = Val(De) + 2 * Val(PlusMinus)
+ Pa = Val(Pa) + 1 * Val(PlusMinus)
+ Se = Val(Se) + 1 * Val(PlusMinus)
+ Co = Val(Co) + 1 * Val(PlusMinus)
+ 공격력(Oee) = Val(공격력(Oee)) - 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) - 3 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) - 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) - 2 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) - 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) - 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) - 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) - 1 * Val(PlusMinus)
+ AW = Val(AW) + 1
+ PW = Val(PW) + 1
+ 
+ ElseIf MT = 3 And 종족(Oee) = 1 Then
+  공격력(Oee) = Val(공격력(Oee)) - 2 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) - 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) - 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) - 2 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) - 3 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) - 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) - 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) - 1 * Val(PlusMinus)
+ AT = Val(AT) + 1 * Val(PlusMinus)
+ R = Val(R) + 1 * Val(PlusMinus)
+ St = Val(St) + 1 * Val(PlusMinus)
+ Am = Val(Am) + 3 * Val(PlusMinus)
+ De = Val(De) + 1 * Val(PlusMinus)
+ Pa = Val(Pa) + 1 * Val(PlusMinus)
+ Se = Val(Se) + 1 * Val(PlusMinus)
+ Co = Val(Co) + 1 * Val(PlusMinus)
+ AW = Val(AW) + 1
+ TW = Val(TW) + 1
+ 
+ ElseIf MT = 3 And 종족(Oee) = 2 Then
+ AT = Val(AT) + 1 * Val(PlusMinus)
+ R = Val(R) + 3 * Val(PlusMinus)
+ St = Val(St) + 1 * Val(PlusMinus)
+ Am = Val(Am) + 2 * Val(PlusMinus)
+ De = Val(De) + 1 * Val(PlusMinus)
+ Pa = Val(Pa) + 1 * Val(PlusMinus)
+ Se = Val(Se) + 1 * Val(PlusMinus)
+ Co = Val(Co) + 1 * Val(PlusMinus)
+ 공격력(Oee) = Val(공격력(Oee)) - 2 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) - 2 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) - 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) - 1 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) - 2 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) - 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) - 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) - 1 * Val(PlusMinus)
+ AW = Val(AW) + 1
+ ZW = Val(ZW) + 1
+ 
+ ElseIf MT = 3 And 종족(Oee) = 3 Then
+  AT = Val(AT) + 1 * Val(PlusMinus)
+ R = Val(R) + 1 * Val(PlusMinus)
+ St = Val(St) + 1 * Val(PlusMinus)
+ Am = Val(Am) + 2 * Val(PlusMinus)
+ De = Val(De) + 1 * Val(PlusMinus)
+ Pa = Val(Pa) + 1 * Val(PlusMinus)
+ Se = Val(Se) + 2 * Val(PlusMinus)
+ Co = Val(Co) + 2 * Val(PlusMinus)
+ 공격력(Oee) = Val(공격력(Oee)) - 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) - 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) - 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) - 2 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) - 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) - 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) - 2 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) - 2 * Val(PlusMinus)
+ AW = Val(AW) + 1
+ PW = Val(PW) + 1
+ 
+ End If
+
+ If MT = 1 And 종족(Oee) = 1 Then
+ 
+ 공격력(Oee) = Val(공격력(Oee)) + 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) + 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) + 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) + 1 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) + 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) + 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) + 3 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) + 1 * Val(PlusMinus)
+ AT = Val(AT) - 1 * Val(PlusMinus)
+ R = Val(R) - 1 * Val(PlusMinus)
+ St = Val(St) - 1 * Val(PlusMinus)
+ Am = Val(Am) - 1 * Val(PlusMinus)
+ De = Val(De) - 1 * Val(PlusMinus)
+ Pa = Val(Pa) - 1 * Val(PlusMinus)
+ Se = Val(Se) - 3 * Val(PlusMinus)
+ Co = Val(Co) - 1 * Val(PlusMinus)
+ AL = Val(AL) + 1
+ TL = Val(TL) + 1
+ 
+ 
+ ElseIf MT = 1 And 종족(Oee) = 2 Then
+ 컨트롤(Oee) = Val(컨트롤(Oee)) + 3 * Val(PlusMinus)
+ 공격력(Oee) = Val(공격력(Oee)) + 2 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) + 2 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) + 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) + 1 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) + 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) + 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) + 1 * Val(PlusMinus)
+ AT = Val(AT) - 1 * Val(PlusMinus)
+ R = Val(R) - 1 * Val(PlusMinus)
+ St = Val(St) - 2 * Val(PlusMinus)
+ Am = Val(Am) - 2 * Val(PlusMinus)
+ De = Val(De) - 1 * Val(PlusMinus)
+ Pa = Val(Pa) - 1 * Val(PlusMinus)
+ Se = Val(Se) - 1 * Val(PlusMinus)
+ Co = Val(Co) - 1 * Val(PlusMinus)
+ AL = Val(AL) + 1
+ ZL = Val(ZL) + 1
+ 
+ 
+ ElseIf MT = 1 And 종족(Oee) = 3 Then
+ 공격력(Oee) = Val(공격력(Oee)) + 2 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) + 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) + 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) + 2 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) + 3 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) + 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) + 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) + 1 * Val(PlusMinus)
+ AT = Val(AT) - 1 * Val(PlusMinus)
+ R = Val(R) - 1 * Val(PlusMinus)
+ St = Val(St) - 1 * Val(PlusMinus)
+ Am = Val(Am) - 3 * Val(PlusMinus)
+ De = Val(De) - 1 * Val(PlusMinus)
+ Pa = Val(Pa) - 1 * Val(PlusMinus)
+ Se = Val(Se) - 1 * Val(PlusMinus)
+ Co = Val(Co) - 1 * Val(PlusMinus)
+ AL = Val(AL) + 1
+ PL = Val(PL) + 1
+ 
+ ElseIf MT = 2 And 종족(Oee) = 1 Then
+ 공격력(Oee) = Val(공격력(Oee)) + 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) + 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) + 2 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) + 2 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) + 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) + 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) + 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) + 1 * Val(PlusMinus)
+ Co = Val(Co) - 3 * Val(PlusMinus)
+ AT = Val(AT) - 2 * Val(PlusMinus)
+ St = Val(St) - 2 * Val(PlusMinus)
+ R = Val(R) - 1 * Val(PlusMinus)
+ Am = Val(Am) - 1 * Val(PlusMinus)
+ De = Val(De) - 1 * Val(PlusMinus)
+ Pa = Val(Pa) - 1 * Val(PlusMinus)
+ Se = Val(Se) - 1 * Val(PlusMinus)
+ AL = Val(AL) + 1
+ TL = Val(TL) + 1
+ 
+ ElseIf MT = 2 And 종족(Oee) = 2 Then
+ 공격력(Oee) = Val(공격력(Oee)) + 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) + 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) + 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) + 1 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) + 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) + 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) + 2 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) + 3 * Val(PlusMinus)
+ AT = Val(AT) - 1 * Val(PlusMinus)
+ R = Val(R) - 1 * Val(PlusMinus)
+ St = Val(St) - 1 * Val(PlusMinus)
+ Am = Val(Am) - 1 * Val(PlusMinus)
+ De = Val(De) - 1 * Val(PlusMinus)
+ Pa = Val(Pa) - 1 * Val(PlusMinus)
+ Se = Val(Se) - 2 * Val(PlusMinus)
+ Co = Val(Co) - 3 * Val(PlusMinus)
+ AL = Val(AL) + 1
+ ZL = Val(ZL) + 1
+ 
+ ElseIf MT = 2 And 종족(Oee) = 3 Then
+  공격력(Oee) = Val(공격력(Oee)) + 2 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) + 2 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) + 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) + 1 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) + 2 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) + 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) + 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) + 1 * Val(PlusMinus)
+ AT = Val(AT) - 1 * Val(PlusMinus)
+ R = Val(R) - 3 * Val(PlusMinus)
+ St = Val(St) - 1 * Val(PlusMinus)
+ Am = Val(Am) - 2 * Val(PlusMinus)
+ De = Val(De) - 1 * Val(PlusMinus)
+ Pa = Val(Pa) - 1 * Val(PlusMinus)
+ Se = Val(Se) - 1 * Val(PlusMinus)
+ Co = Val(Co) - 1 * Val(PlusMinus)
+ AL = Val(AL) + 1
+ PL = Val(PL) + 1
+ 
+ ElseIf MT = 3 And 종족(Oee) = 1 Then
+ 공격력(Oee) = Val(공격력(Oee)) + 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) + 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) + 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) + 3 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) + 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) + 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) + 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) + 1 * Val(PlusMinus)
+  AT = Val(AT) - 1 * Val(PlusMinus)
+ R = Val(R) - 1 * Val(PlusMinus)
+ St = Val(St) - 1 * Val(PlusMinus)
+ Am = Val(Am) - 2 * Val(PlusMinus)
+ De = Val(De) - 3 * Val(PlusMinus)
+ Pa = Val(Pa) - 1 * Val(PlusMinus)
+ Se = Val(Se) - 1 * Val(PlusMinus)
+ Co = Val(Co) - 1 * Val(PlusMinus)
+ AL = Val(AL) + 1
+ TL = Val(TL) + 1
+ 
+ ElseIf MT = 3 And 종족(Oee) = 2 Then
+ 공격력(Oee) = Val(공격력(Oee)) + 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) + 3 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) + 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) + 2 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) + 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) + 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) + 1 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) + 1 * Val(PlusMinus)
+ AT = Val(AT) - 2 * Val(PlusMinus)
+ R = Val(R) - 2 * Val(PlusMinus)
+ St = Val(St) - 1 * Val(PlusMinus)
+ Am = Val(Am) - 1 * Val(PlusMinus)
+ De = Val(De) - 2 * Val(PlusMinus)
+ Pa = Val(Pa) - 1 * Val(PlusMinus)
+ Se = Val(Se) - 1 * Val(PlusMinus)
+ Co = Val(Co) - 1 * Val(PlusMinus)
+ AL = Val(AL) + 1
+ ZL = Val(ZL) + 1
+ 
+ ElseIf MT = 3 And 종족(Oee) = 3 Then
+ 공격력(Oee) = Val(공격력(Oee)) + 1 * Val(PlusMinus)
+ 견제(Oee) = Val(견제(Oee)) + 1 * Val(PlusMinus)
+ 전략(Oee) = Val(전략(Oee)) + 1 * Val(PlusMinus)
+ 물량(Oee) = Val(물량(Oee)) + 2 * Val(PlusMinus)
+ 수비력(Oee) = Val(수비력(Oee)) + 1 * Val(PlusMinus)
+ 정찰(Oee) = Val(정찰(Oee)) + 1 * Val(PlusMinus)
+ 센스(Oee) = Val(센스(Oee)) + 2 * Val(PlusMinus)
+ 컨트롤(Oee) = Val(컨트롤(Oee)) + 2 * Val(PlusMinus)
+ AT = Val(AT) - 1 * Val(PlusMinus)
+ R = Val(R) - 1 * Val(PlusMinus)
+ St = Val(St) - 1 * Val(PlusMinus)
+ Am = Val(Am) - 2 * Val(PlusMinus)
+ De = Val(De) - 1 * Val(PlusMinus)
+ Pa = Val(Pa) - 1 * Val(PlusMinus)
+ Se = Val(Se) - 2 * Val(PlusMinus)
+ Co = Val(Co) - 2 * Val(PlusMinus)
+ AL = Val(AL) + 1
+ PL = Val(PL) + 1
+ End If

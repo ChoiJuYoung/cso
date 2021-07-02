@@ -1,0 +1,55 @@
+
+  '****·©Å©
+AA = Val(AT) + Val(r) + Val(St) + Val(Am) + Val(De) + Val(Pa) + Val(Se) + Val(Co)
+If Val(AA) < 4500 Then
+lblRaV.Caption = "F"
+lblRaV.ForeColor = &H4B4B4B
+ElseIf Val(AA) >= 4500 And Val(AA) < 4700 Then
+lblRaV.Caption = "E"
+lblRaV.ForeColor = &HB0B0B0
+ElseIf Val(AA) >= 4700 And Val(AA) < 4800 Then
+lblRaV.Caption = "D-"
+lblRaV.ForeColor = &HFF3232
+ElseIf Val(AA) >= 4800 And Val(AA) < 4900 Then
+lblRaV.Caption = "D"
+lblRaV.ForeColor = &HFF3232
+ElseIf Val(AA) >= 4900 And Val(AA) < 5000 Then
+lblRaV.Caption = "D+"
+lblRaV.ForeColor = &HFF3232
+ElseIf Val(AA) >= 5000 And Val(AA) < 5100 Then
+lblRaV.Caption = "C-"
+lblRaV.ForeColor = &HFF00&
+ElseIf Val(AA) >= 5100 And Val(AA) < 5200 Then
+lblRaV.Caption = "C"
+lblRaV.ForeColor = &HFF00&
+ElseIf Val(AA) >= 5200 And Val(AA) < 5400 Then
+lblRaV.Caption = "C+"
+lblRaV.ForeColor = &HFF00&
+ElseIf Val(AA) >= 5400 And Val(AA) < 5600 Then
+lblRaV.Caption = "B-"
+lblRaV.ForeColor = &HFFFD&
+ElseIf Val(AA) >= 5600 And Val(AA) < 5800 Then
+lblRaV.Caption = "B"
+lblRaV.ForeColor = &HFFFD&
+ElseIf Val(AA) >= 5800 And Val(AA) < 6000 Then
+lblRaV.Caption = "B+"
+lblRaV.ForeColor = &HFFFD&
+ElseIf Val(AA) >= 6000 And Val(AA) < 6200 Then
+lblRaV.Caption = "A-"
+lblRaV.ForeColor = &H6663FF
+ElseIf Val(AA) >= 6200 And Val(AA) < 6400 Then
+lblRaV.Caption = "A"
+lblRaV.ForeColor = &H6663FF
+ElseIf Val(AA) >= 6400 And Val(AA) < 6600 Then
+lblRaV.Caption = "A+"
+lblRaV.ForeColor = &H6663FF
+ElseIf Val(AA) >= 6600 And Val(AA) < 6800 Then
+lblRaV.Caption = "S"
+lblRaV.ForeColor = &H9600FF
+ElseIf Val(AA) >= 6800 And Val(AA) < 7000 Then
+lblRaV.Caption = "SS"
+lblRaV.ForeColor = &H9600FF
+ElseIf Val(AA) >= 7000 Then
+lblRaV.Caption = "SSS"
+lblRaV.ForeColor = &H9600FF
+End If

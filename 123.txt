@@ -1,0 +1,151 @@
+
+  '****Point 계산
+AAO = Val(ATO) + Val(RO) + Val(StO) + Val(AmO) + Val(DeO) + Val(PaO) + Val(SeO) + Val(CoO)
+
+'테테
+If MT = 1 And OT = 1 Then
+  '테테 올능력치 비교
+ If Val(AA) < Val(AAO) Then
+  OP = OP + Int((Val(AAO) - Val(AA)) * 50 / 100) + 1
+ ElseIf Val(AA) >= Val(AAO) Then
+  MP = MP + Int((Val(AA) - Val(AAO)) * 50 / 100) + 1
+ End If
+  '테테 센스 비교
+ If Val(Se) < Val(SeO) Then
+  OP = OP + Int((Val(SeO) - Val(Se)) * 20 / 100) + 1
+ ElseIf Val(Se) >= Val(SeO) Then
+  MP = MP + Int((Val(Se) - Val(SeO)) * 20 / 100) + 1
+ End If
+ 
+'테저
+ElseIf MT = 1 And OT = 2 Then
+ MP = MP + Int(Val(Co) * 3 / 100) + 1
+ MP = MP + Int(Val(AT) * 2 / 100) + 1
+ MP = MP + Int(Val(St) / 100) + 1
+ OP = OP + Int(Val(AAO) / 200) + 1
+ OP = OP + Int(Val(AmO) / 100) + 1
+ OP = OP + Int(Val(StO) / 500) + 1
+ If Val(AA) < Val(AAO) Then
+  OP = OP + Int((Val(AAO) - Val(AA)) * 30 / 200) + 1
+ ElseIf Val(AA) >= Val(AAO) Then
+  MP = MP + Int((Val(AA) - Val(AAO)) * 30 / 200) + 1
+ End If
+
+'테프
+ElseIf MT = 1 And OT = 3 Then
+ MP = MP + Int(Val(De) * 3 / 100) + 1
+ MP = MP + Int(Val(AT) * 2 / 100) + 1
+ MP = MP + Int(Val(Am) * 2 / 100) + 1
+ OP = OP + Int(Val(AmO) * 4 / 100) + 1
+ OP = OP + Int(Val(ATO) * 2 / 100) + 1
+ OP = OP + Int(Val(DeO) * 2 / 100) + 1
+ If Val(AA) < Val(AAO) Then
+  OP = OP + Int((Val(AAO) - Val(AA)) * 10 / 200) + 1
+ ElseIf Val(AA) >= Val(AAO) Then
+  MP = MP + Int((Val(AA) - Val(AAO)) * 10 / 200) + 1
+ End If
+ 
+'저테
+ElseIf MT = 2 And OT = 1 Then
+ OP = OP + Int(Val(CoO) * 3 / 100) + 1
+ OP = OP + Int(Val(ATO) * 2 / 100) + 1
+ OP = OP + Int(Val(StO) / 100) + 1
+ MP = MP + Int(Val(AA) / 200) + 1
+ MP = MP + Int(Val(Am) / 100) + 1
+ MP = MP + Int(Val(St) / 500) + 1
+ If Val(AA) < Val(AAO) Then
+  OP = OP + Int((Val(AAO) - Val(AA)) * 30 / 200) + 1
+ ElseIf Val(AA) >= Val(AAO) Then
+  MP = MP + Int((Val(AA) - Val(AAO)) * 30 / 200) + 1
+ End If
+
+'저저
+ElseIf MT = 2 And OT = 2 Then
+ If Val(AA) < Val(AAO) Then
+  OP = OP + Int((Val(AAO) - Val(AA)) * 10 / 100) + 1
+ ElseIf Val(AA) >= Val(AAO) Then
+  MP = MP + Int((Val(AA) - Val(AAO)) * 10 / 100) + 1
+ End If
+ 
+ If Val(Se) < Val(SeO) Then
+  OP = OP + Int((Val(SeO) - Val(Se)) * 70 / 100) + 1
+ ElseIf Val(Se) >= Val(SeO) Then
+  MP = MP + Int((Val(Se) - Val(SeO)) * 70 / 100) + 1
+ End If
+ 
+ If Val(Co) < Val(CoO) Then
+  OP = OP + Int((Val(CoO) - Val(Co)) * 10 / 100) + 1
+ ElseIf Val(Co) >= Val(CoO) Then
+  MP = MP + Int((Val(Co) - Val(CoO)) * 10 / 100) + 1
+ End If
+ 
+'저프
+ElseIf MT = 2 And OT = 3 Then
+ MP = MP + Int(Val(R) * 4 / 100) + 1
+ MP = MP + Int(Val(St) * 1 / 100) + 1
+ MP = MP + Int(Val(De) * 2 / 100) + 1
+ OP = OP + Int(Val(AmO) * 3 / 100) + 1
+ OP = OP + Int(Val(RO) * 7 / 100) + 1
+ OP = OP + Int(Val(StO) * 1 / 100) + 1
+ OP = OP + Int(Val(DeO) * 2 / 100) + 1
+ If Val(AA) < Val(AAO) Then
+  OP = OP + Int((Val(AAO) - Val(AA)) * 10 / 200) + 1
+ ElseIf Val(AA) >= Val(AAO) Then
+  MP = MP + Int((Val(AA) - Val(AAO)) * 10 / 200) + 1
+ End If
+ 
+'프테
+ElseIf MT = 3 And OT = 1 Then
+ OP = OP + Int(Val(DeO) * 3 / 100) + 1
+ OP = OP + Int(Val(ATO) * 2 / 100) + 1
+ OP = OP + Int(Val(AmO) * 2 / 100) + 1
+ MP = MP + Int(Val(Am) * 4 / 100) + 1
+ MP = MP + Int(Val(AT) * 2 / 100) + 1
+ MP = MP + Int(Val(De) * 2 / 100) + 1
+ If Val(AA) < Val(AAO) Then
+  OP = OP + Int((Val(AAO) - Val(AA)) * 10 / 200) + 1
+ ElseIf Val(AA) >= Val(AAO) Then
+  MP = MP + Int((Val(AA) - Val(AAO)) * 10 / 200) + 1
+ End If
+ 
+'프저
+ElseIf MT = 3 And OT = 2 Then
+ OP = OP + Int(Val(RO) * 4 / 100) + 1
+ OP = OP + Int(Val(StO) * 1 / 100) + 1
+ OP = OP + Int(Val(DeO) * 2 / 100) + 1
+ MP = MP + Int(Val(Am) * 3 / 100) + 1
+ MP = MP + Int(Val(R) * 7 / 100) + 1
+ MP = MP + Int(Val(St) * 1 / 100) + 1
+ MP = MP + Int(Val(De) * 2 / 100) + 1
+ If Val(AA) < Val(AAO) Then
+  OP = OP + Int((Val(AAO) - Val(AA)) * 10 / 200) + 1
+ ElseIf Val(AA) >= Val(AAO) Then
+  MP = MP + Int((Val(AA) - Val(AAO)) * 10 / 200) + 1
+ End If
+ 
+'프프
+ElseIf MT = 3 And OT = 3 Then
+ If Val(AA) < Val(AAO) Then
+  OP = OP + Int((Val(AAO) - Val(AA)) * 30 / 100) + 1
+ ElseIf Val(AA) >= Val(AAO) Then
+  MP = MP + Int((Val(AA) - Val(AAO)) * 30 / 100) + 1
+ End If
+ 
+ If Val(Se) < Val(SeO) Then
+  OP = OP + Int((Val(SeO) - Val(Se)) * 30 / 100) + 1
+ ElseIf Val(Se) >= Val(SeO) Then
+  MP = MP + Int((Val(Se) - Val(SeO)) * 30 / 100) + 1
+ End If
+ 
+ If Val(Am) < Val(AmO) Then
+  OP = OP + Int((Val(AmO) - Val(Am)) * 50 / 100) + 1
+ ElseIf Val(Am) >= Val(AmO) Then
+  MP = MP + Int((Val(Am) - Val(AmO)) * 50 / 100) + 1
+ End If
+ 
+ If Val(Co) < Val(CoO) Then
+  OP = OP + Int((Val(CoO) - Val(Co)) * 40 / 100) + 1
+ ElseIf Val(Co) >= Val(CoO) Then
+  MP = MP + Int((Val(Co) - Val(CoO)) * 40 / 100) + 1
+ End If
+End If

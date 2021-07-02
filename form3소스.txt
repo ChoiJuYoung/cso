@@ -1,0 +1,1491 @@
+
+Private Sub Form_Load()
+  '****변수값 지정
+ MP = 1
+ OP = 1
+
+
+Con = 100
+RAT = Int(val(AT) * val(Con) / 100)
+rR = Int(val(R) * val(Con) / 100)
+RSt = Int(val(St) * val(Con) / 100)
+RAm = Int(val(Am) * val(Con) / 100)
+RDe = Int(val(De) * val(Con) / 100)
+RPa = Int(val(Pa) * val(Con) / 100)
+RSe = Int(val(SE) * val(Con) / 100)
+RCo = Int(val(Co) * val(Con) / 100)
+RAA = val(RAT) + val(rR) + val(RSt) + val(RAm) + val(RDe) + val(RPa) + val(RSe) + val(RCo)
+
+R공격력(Oee) = 공격력(Oee)
+R견제(Oee) = 견제(Oee)
+R전략(Oee) = 전략(Oee)
+R물량(Oee) = 물량(Oee)
+R수비력(Oee) = 수비력(Oee)
+R정찰(Oee) = 정찰(Oee)
+R센스(Oee) = 센스(Oee)
+R컨트롤(Oee) = 컨트롤(Oee)
+
+If val(MyTribe(선택)) = 1 Then
+ If val(종족(Oee)) = 1 Then
+  ProgressBar1.Value = 50
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & "50 : 50" & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 2 Then
+  MP = val(MP) * (TZT(Map))
+  OP = val(OP) * (TZZ(Map))
+  ProgressBar1.Value = TZT(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & TZT(Map) & " : " & TZZ(Map) & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 3 Then
+  MP = val(MP) * (PTT(Map))
+  OP = val(OP) * (PTP(Map))
+  ProgressBar1.Value = PTT(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & PTT(Map) & " : " & PTP(Map) & OYear(Oee) & 이름(Oee)
+ End If
+ 
+ElseIf val(MyTribe(선택)) = 2 Then
+
+ If val(종족(Oee)) = 1 Then
+  MP = val(MP) * (TZZ(Map))
+  OP = val(OP) * (TZT(Map))
+  ProgressBar1.Value = TZZ(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & TZZ(Map) & " : " & TZT(Map) & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 2 Then
+  ProgressBar1.Value = 50
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & "50 : 50" & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 3 Then
+  MP = val(MP) * (ZPZ(Map))
+  OP = val(OP) * (ZPP(Map))
+  ProgressBar1.Value = ZPZ(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & ZPZ(Map) & " : " & ZPP(Map) & OYear(Oee) & 이름(Oee)
+ End If
+ 
+ElseIf val(MyTribe(선택)) = 3 Then
+
+ If val(종족(Oee)) = 1 Then
+  MP = val(MP) * (PTP(Map))
+  OP = val(OP) * (PTT(Map))
+  ProgressBar1.Value = PTP(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & PTP(Map) & " : " & PTT(Map) & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 2 Then
+  MP = val(MP) * (ZPP(Map))
+  OP = val(OP) * (ZPZ(Map))
+  ProgressBar1.Value = ZPP(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & ZPP(Map) & " : " & ZPZ(Map) & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 3 Then
+  ProgressBar1.Value = 50
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & "50 : 50" & OYear(Oee) & 이름(Oee)
+ End If
+
+End If
+
+End Sub
+
+
+
+Private Sub lblLe_Click()
+Dim CodeS As String
+CodeS = InputBox("입력")
+If CodeS = "나" Then
+    Winer = "나"
+    If Text2.Text <> "이히히" Then
+        Text2.Text = "이히히"
+    Else
+        Text2.Text = "우히히"
+    End If
+ElseIf CodeS = "상대" Then
+    Winer = "상대"
+    If Text2.Text <> "이히히" Then
+        Text2.Text = "이히히"
+    Else
+        Text2.Text = "우히히"
+    End If
+End If
+End Sub
+
+Private Sub Text1_Change()
+
+Dim L1 As String
+Dim L2 As String
+Dim L3 As String
+Dim L4 As String
+Dim L5 As String
+Dim L6 As String
+Dim L7 As String
+Dim L8 As String
+
+Dim r1 As String
+Dim r2 As String
+Dim r3 As String
+Dim R4 As String
+Dim R5 As String
+Dim R6 As String
+Dim R7 As String
+Dim R8 As String
+
+Dim RL1 As String
+Dim RL2 As String
+Dim RL3 As String
+Dim RL4 As String
+Dim RL5 As String
+Dim RL6 As String
+Dim RL7 As String
+Dim RL8 As String
+
+Dim RR1 As String
+Dim RR2 As String
+Dim RR3 As String
+Dim RR4 As String
+Dim RR5 As String
+Dim RR6 As String
+Dim RR7 As String
+Dim RR8 As String
+
+L1 = val(AT)
+L2 = val(R)
+L3 = val(St)
+L4 = val(Am)
+L5 = val(De)
+L6 = val(Pa)
+L7 = val(SE)
+L8 = val(Co)
+
+
+RL1 = val(AT)
+RL2 = val(R)
+RL3 = val(St)
+RL4 = val(Am)
+RL5 = val(De)
+RL6 = val(Pa)
+RL7 = val(SE)
+RL8 = val(Co)
+
+r1 = val(공격력(Oee))
+r2 = val(견제(Oee))
+r3 = val(전략(Oee))
+R4 = val(물량(Oee))
+R5 = val(수비력(Oee))
+R6 = val(정찰(Oee))
+R7 = val(센스(Oee))
+R8 = val(컨트롤(Oee))
+
+RR1 = val(공격력(Oee))
+RR2 = val(견제(Oee))
+RR3 = val(전략(Oee))
+RR4 = val(물량(Oee))
+RR5 = val(수비력(Oee))
+RR6 = val(정찰(Oee))
+RR7 = val(센스(Oee))
+RR8 = val(컨트롤(Oee))
+
+
+
+Line (5040 + 1100, 7200)-(5040 + 550 * Sqr(2), 7200 - 550 * Sqr(2)), RGB(255, 255, 255)
+Line (5040 + 550 * Sqr(2), 7200 - 550 * Sqr(2))-(5040, 7200 - 1100), RGB(255, 255, 255)
+Line (5040, 7200 - 1100)-(5040 - 550 * Sqr(2), 7200 - 550 * Sqr(2)), RGB(255, 255, 255)
+Line (5040 - 550 * Sqr(2), 7200 - 550 * Sqr(2))-(5040 - 1100, 7200), RGB(255, 255, 255)
+Line (5040 - 1100, 7200)-(5040 - 550 * Sqr(2), 7200 + 550 * Sqr(2)), RGB(255, 255, 255)
+Line (5040 - 550 * Sqr(2), 7200 + 550 * Sqr(2))-(5040, 7200 + 1100), RGB(255, 255, 255)
+Line (5040, 7200 + 1100)-(5040 + 550 * Sqr(2), 7200 + 550 * Sqr(2)), RGB(255, 255, 255)
+Line (5040 + 550 * Sqr(2), 7200 + 550 * Sqr(2))-(5040 + 1100, 7200), RGB(255, 255, 255)
+
+Line (5040 + L1, 7200)-(5040 + L2 * Sqr(2) / 2, 7200 + L2 * Sqr(2) / 2), RGB(255, 0, 0)
+Line (5040 + L2 * Sqr(2) / 2, 7200 + L2 * Sqr(2) / 2)-(5040, 7200 + L3), RGB(255, 0, 0)
+Line (5040, 7200 + L3)-(5040 - L4 * Sqr(2) / 2, 7200 + L4 * Sqr(2) / 2), RGB(255, 0, 0)
+Line (5040 - L4 * Sqr(2) / 2, 7200 + L4 * Sqr(2) / 2)-(5040 - L5, 7200), RGB(255, 0, 0)
+Line (5040 - L5, 7200)-(5040 - L6 * Sqr(2) / 2, 7200 - L6 * Sqr(2) / 2), RGB(255, 0, 0)
+Line (5040 - L6 * Sqr(2) / 2, 7200 - L6 * Sqr(2) / 2)-(5040, 7200 - L7), RGB(255, 0, 0)
+Line (5040, 7200 - L7)-(5040 + L8 * Sqr(2) / 2, 7200 - L8 * Sqr(2) / 2), RGB(255, 0, 0)
+Line (5040 + L8 * Sqr(2) / 2, 7200 - L8 * Sqr(2) / 2)-(5040 + L1, 7200), RGB(255, 0, 0)
+
+Line (5040 + r1, 7200)-(5040 + r2 * Sqr(2) / 2, 7200 + r2 * Sqr(2) / 2), RGB(0, 255, 255)
+Line (5040 + r2 * Sqr(2) / 2, 7200 + r2 * Sqr(2) / 2)-(5040, 7200 + r3), RGB(0, 255, 255)
+Line (5040, 7200 + r3)-(5040 - R4 * Sqr(2) / 2, 7200 + R4 * Sqr(2) / 2), RGB(0, 255, 255)
+Line (5040 - R4 * Sqr(2) / 2, 7200 + R4 * Sqr(2) / 2)-(5040 - R5, 7200), RGB(0, 255, 255)
+Line (5040 - R5, 7200)-(5040 - R6 * Sqr(2) / 2, 7200 - R6 * Sqr(2) / 2), RGB(0, 255, 255)
+Line (5040 - R6 * Sqr(2) / 2, 7200 - R6 * Sqr(2) / 2)-(5040, 7200 - R7), RGB(0, 255, 255)
+Line (5040, 7200 - R7)-(5040 + R8 * Sqr(2) / 2, 7200 - R8 * Sqr(2) / 2), RGB(0, 255, 255)
+Line (5040 + R8 * Sqr(2) / 2, 7200 - R8 * Sqr(2) / 2)-(5040 + r1, 7200), RGB(0, 255, 255)
+
+End Sub
+
+Private Sub Text2_Change()
+MP = 1
+OP = 1
+
+If Winer = "나" Then
+ PlusMinus = Int(val(AAO) / 1000) + 1
+ElseIf Winer = "상대" Then
+ PlusMinus = Int(val(AA) / 1500) + 1
+End If
+
+If Winer = "나" Then
+ Money = val(Money) + Int((val(PlusMinus) * 10) * 3 / 2)
+ MW = val(MW) + 1
+ MW2 = val(MW2) + 1
+ MyExp(선택) = val(MyExp(선택)) + val(PlusMinus)
+ MyAW(선택) = val(MyAW(선택)) + 1
+ A패배(Oee) = val(A패배(Oee)) + 1
+ 
+ If MT = 1 Then
+  T패배(Oee) = val(T패배(Oee)) + 1
+  If T연(Oee) = "W" Then
+   T연(Oee) = "L"
+   T연승(Oee) = 1
+  Else
+   T연승(Oee) = val(T연승(Oee)) + 1
+  End If
+ ElseIf MT = 2 Then
+  Z패배(Oee) = val(Z패배(Oee)) + 1
+  If Z연(Oee) = "W" Then
+   Z연(Oee) = "L"
+   Z연승(Oee) = 1
+  Else
+   Z연승(Oee) = val(Z연승(Oee)) + 1
+  End If
+ ElseIf MT = 3 Then
+  P패배(Oee) = val(P패배(Oee)) + 1
+  If P연(Oee) = "W" Then
+   P연(Oee) = "L"
+   P연승(Oee) = 1
+  Else
+   P연승(Oee) = val(P연승(Oee)) + 1
+  End If
+ End If
+ 
+ If 종족(Oee) = 1 Then
+  MyTW(선택) = val(MyTW(선택)) + 1
+ ElseIf 종족(Oee) = 2 Then
+  MyZW(선택) = val(MyZW(선택)) + 1
+ ElseIf 종족(Oee) = 3 Then
+  MyPW(선택) = val(MyPW(선택)) + 1
+ End If
+ 
+ If MyA연(선택) = "L" Then
+  MyA연(선택) = "W"
+  MyA연승(선택) = 1
+ Else
+  MyA연승(선택) = val(MyA연승(선택)) + 1
+ End If
+ 
+ If 종족(Oee) = 1 Then
+  If MyT연(선택) = "L" Then
+   MyT연(선택) = "W"
+   MyT연승(선택) = 1
+  Else
+   MyT연승(선택) = val(MyT연승(선택)) + 1
+  End If
+ ElseIf 종족(Oee) = 2 Then
+  If MyZ연(선택) = "L" Then
+   MyZ연(선택) = "W"
+   MyZ연승(선택) = 1
+  Else
+   MyZ연승(선택) = val(MyZ연승(선택)) + 1
+  End If
+ ElseIf 종족(Oee) = 3 Then
+  If MyP연(선택) = "L" Then
+   MyP연(선택) = "W"
+   MyP연승(선택) = 1
+  Else
+   MyP연승(선택) = val(MyP연승(선택)) + 1
+  End If
+ End If
+
+ElseIf Winer = "상대" Then
+ OW = val(OW) + 1
+ OW2 = val(OW2) + 1
+ Money = val(Money) - (val(PlusMinus) * 10)
+ MyExp(선택) = val(MyExp(선택)) - val(PlusMinus)
+ MyAL(선택) = val(MyAL(선택)) + 1
+ A승리(Oee) = val(A승리(Oee)) + 1
+ 
+  If MT = 1 Then
+  T승리(Oee) = val(T승리(Oee)) + 1
+  If T연(Oee) = "L" Then
+   T연(Oee) = "W"
+   T연승(Oee) = 1
+  Else
+   T연승(Oee) = val(T연승(Oee)) + 1
+  End If
+ ElseIf MT = 2 Then
+  Z승리(Oee) = val(Z승리(Oee)) + 1
+  If Z연(Oee) = "L" Then
+   Z연(Oee) = "W"
+   Z연승(Oee) = 1
+  Else
+   Z연승(Oee) = val(Z연승(Oee)) + 1
+  End If
+ ElseIf MT = 3 Then
+  P승리(Oee) = val(P승리(Oee)) + 1
+  If P연(Oee) = "L" Then
+   P연(Oee) = "W"
+   P연승(Oee) = 1
+  Else
+   P연승(Oee) = val(P연승(Oee)) + 1
+  End If
+ End If
+ 
+ If 종족(Oee) = 1 Then
+  MyTL(선택) = val(MyTL(선택)) + 1
+ ElseIf 종족(Oee) = 2 Then
+  MyZL(선택) = val(MyZL(선택)) + 1
+ ElseIf 종족(Oee) = 3 Then
+  MyPL(선택) = val(MyPL(선택)) + 1
+ End If
+ 
+ If MyA연(선택) = "W" Then
+  MyA연(선택) = "L"
+  MyA연승(선택) = 1
+ Else
+  MyA연승(선택) = val(MyA연승(선택)) + 1
+ End If
+ 
+ If 종족(Oee) = 1 Then
+  If MyT연(선택) = "W" Then
+   MyT연(선택) = "L"
+   MyT연승(선택) = 1
+  Else
+   MyT연승(선택) = val(MyT연승(선택)) + 1
+  End If
+ ElseIf 종족(Oee) = 2 Then
+  If MyZ연(선택) = "W" Then
+   MyZ연(선택) = "L"
+   MyZ연승(선택) = 1
+  Else
+   MyZ연승(선택) = val(MyZ연승(선택)) + 1
+  End If
+ ElseIf 종족(Oee) = 3 Then
+  If MyP연(선택) = "W" Then
+   MyP연(선택) = "L"
+   MyP연승(선택) = 1
+  Else
+   MyP연승(선택) = val(MyP연승(선택)) + 1
+  End If
+ End If
+End If
+  
+If Turn = "OSL" Then
+ If val(val(MW) + val(OW)) < val(SetA) Then
+ Else
+  If MyNW(선택) = "CB16" Then
+   If val(MW) = 1 Then
+    MyNW(선택) = "CB8"
+    AAA = 1
+   ElseIf val(OW) = 1 Then
+    MyNW(선택) = "CB16"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CB8" Then
+   If val(MW) = 1 Then
+    MyNW(선택) = "CB4"
+    AAA = 1
+   ElseIf val(OW) = 1 Then
+    MyNW(선택) = "CB16"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CB4" Then
+   If val(MW) = 1 Then
+    MyNW(선택) = "CBFin"
+    AAA = 1
+   ElseIf val(OW) = 1 Then
+    MyNW(선택) = "CB16"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CBFin" Then
+   If val(MW) = 1 Then
+    MyNW(선택) = "CA1"
+    AAA = 1
+   ElseIf val(OW) = 1 Then
+    MyNW(선택) = "CB16"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CA1" Then
+   If val(MW) = 1 Then
+    MyNW(선택) = "CA2"
+    AAA = 1
+   ElseIf val(OW) = 1 Then
+    MyNW(선택) = "CB16"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CA2" Then
+   If val(MW) = 1 Then
+    MyNW(선택) = "CA3"
+    AAA = 1
+   ElseIf val(OW) = 1 Then
+    MyNW(선택) = "UpADo"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CA3" Then
+   If val(MW) = 1 Then
+    MyNW(선택) = "CS32"
+    AAA = 1
+   ElseIf val(OW) = 1 Then
+    MyNW(선택) = "UpADo"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CS32" Then
+   If val(MW) = 2 Then
+    MyNW(선택) = "CS16"
+    AAA = 1
+   ElseIf val(OW) = 2 Then
+    MyNW(선택) = "CA1"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CS16" Then
+   If val(MW) = 2 Then
+    MyNW(선택) = "CS8"
+    AAA = 1
+   ElseIf val(OW) = 2 Then
+    MyNW(선택) = "CA2"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CS8" Then
+   If val(MW) = 3 Then
+    MyNW(선택) = "CS4"
+    AAA = 1
+   ElseIf val(OW) = 3 Then
+    MyNW(선택) = "CA3"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CS4" Then
+   If val(MW) = 3 Then
+    MyNW(선택) = "CSFin"
+    AAA = 1
+   ElseIf val(OW) = 3 Then
+    MyNW(선택) = "CS32"
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "CSFin" Then
+   If val(MW) = 4 Then
+    MyNW(선택) = "CS32"
+    MyVic(선택) = val(MyVic(선택)) + 1
+    준우승(Oee) = val(준우승(Oee)) + 1
+    MsgBox "Code S Victory!!! Congratulation. Money + 10000"
+    Money = val(Money) + 10000
+    If Mode = "Normal" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 5
+            견제(i) = val(견제(i)) + 5
+            전략(i) = val(전략(i)) + 5
+            물량(i) = val(물량(i)) + 5
+            수비력(i) = val(수비력(i)) + 5
+            정찰(i) = val(정찰(i)) + 5
+            센스(i) = val(센스(i)) + 5
+            컨트롤(i) = val(컨트롤(i)) + 5
+        Next
+    ElseIf Mode = "Hard" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 7
+            견제(i) = val(견제(i)) + 7
+            전략(i) = val(전략(i)) + 7
+            물량(i) = val(물량(i)) + 7
+            수비력(i) = val(수비력(i)) + 7
+            정찰(i) = val(정찰(i)) + 7
+            센스(i) = val(센스(i)) + 7
+            컨트롤(i) = val(컨트롤(i)) + 7
+        Next
+    ElseIf Mode = "Hell" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 15
+            견제(i) = val(견제(i)) + 15
+            전략(i) = val(전략(i)) + 15
+            물량(i) = val(물량(i)) + 15
+            수비력(i) = val(수비력(i)) + 15
+            정찰(i) = val(정찰(i)) + 15
+            센스(i) = val(센스(i)) + 15
+            컨트롤(i) = val(컨트롤(i)) + 15
+        Next
+    End If
+    AAA = 1
+   ElseIf val(OW) = 4 Then
+    MyNW(선택) = "CS32"
+    MySeVic(선택) = val(MySeVic(선택)) + 1
+    우승(Oee) = val(우승(Oee)) + 1
+    MsgBox "Code S Second Place!!! Congratulation. Money + 5000"
+    Money = val(Money) + 5000
+    If Mode = "Normal" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 4
+            견제(i) = val(견제(i)) + 4
+            전략(i) = val(전략(i)) + 4
+            물량(i) = val(물량(i)) + 4
+            수비력(i) = val(수비력(i)) + 4
+            정찰(i) = val(정찰(i)) + 4
+            센스(i) = val(센스(i)) + 4
+            컨트롤(i) = val(컨트롤(i)) + 4
+        Next
+    ElseIf Mode = "Hard" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 6
+            견제(i) = val(견제(i)) + 6
+            전략(i) = val(전략(i)) + 6
+            물량(i) = val(물량(i)) + 6
+            수비력(i) = val(수비력(i)) + 6
+            정찰(i) = val(정찰(i)) + 6
+            센스(i) = val(센스(i)) + 6
+            컨트롤(i) = val(컨트롤(i)) + 6
+        Next
+    ElseIf Mode = "Hell" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 10
+            견제(i) = val(견제(i)) + 10
+            전략(i) = val(전략(i)) + 10
+            물량(i) = val(물량(i)) + 10
+            수비력(i) = val(수비력(i)) + 10
+            정찰(i) = val(정찰(i)) + 10
+            센스(i) = val(센스(i)) + 10
+            컨트롤(i) = val(컨트롤(i)) + 10
+        Next
+    End If
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "UpADo" Then
+   If val(MW) = 3 Then
+    MyNW(선택) = "CS32"
+    AAA = 1
+   ElseIf val(OW) = 3 Then
+    MyNW(선택) = "CA1"
+    AAA = 1
+   End If
+  End If
+ End If
+ElseIf Turn = "PL" Then
+ If (PL진행 = "1R") Or (PL진행 = "2R") Or (PL진행 = "3R") Then
+  If val(MW) + val(OW) < 3 Then
+   PL출전자(선택) = False
+   Form15.Show
+   Unload Me
+  ElseIf val(MW) + val(OW) >= 3 Then
+   If val(MW) >= 3 Or val(OW) >= 3 Then
+    Dim 프로리그출전자세팅 As Integer
+    For 프로리그출전자세팅 = 1 To 6
+     PL출전자(프로리그출전자세팅) = True
+    Next
+    Map = Int((12 * Rnd) + 1)
+    If val(MW) >= 3 Then
+     PL승 = val(PL승) + 1
+     For i = 1 To 6
+      MyExp(i) = val(MyExp(i)) + 10
+     Next
+    ElseIf val(OW) >= 3 Then
+     PL패 = val(PL패) + 1
+     For i = 1 To 6
+      MyExp(i) = val(MyExp(i)) - 5
+     Next
+    End If
+    
+    If val(PL경기수) >= 11 Then
+     If PL진행 = "1R" Then
+      PL진행 = "2R"
+      PL경기수 = -1
+      MsgBox "저장이 가능합니다."
+      Form16.CmdSa.Visible = True
+      Visible확인 = True
+     ElseIf PL진행 = "2R" Then
+      PL진행 = "3R"
+      PL경기수 = -1
+      Form16.CmdSa.Visible = True
+      Visible확인 = True
+     ElseIf PL진행 = "3R" Then
+      PL경기수 = Int((12 * Rnd) + 0)
+      If val(PL승) >= 33 Then
+       PL진행 = "Final"
+       MsgBox "결승전 진출"
+      ElseIf val(PL승) >= 30 Then
+       PL진행 = "PO"
+       MsgBox "플레이오프 진출"
+      ElseIf val(PL승) >= 25 Then
+       PL진행 = "6강"
+       MsgBox "6강 진출"
+      Else
+       MsgBox "포스트시즌 탈락."
+       PL진행 = "1R"
+       PL넘버 = 2
+       PL경기수 = -1
+      End If
+      PL승 = 0
+      PL패 = 0
+     Else
+     End If
+    End If
+     PL경기수 = val(PL경기수) + 1
+     MW = 0
+     OW = 0
+     Form15.Show
+     PLEnd = "True"
+     Unload Me
+    ElseIf val(MW) <= 3 And val(OW) <= 3 Then
+     PL출전자(선택) = False
+      Map = Int((12 * Rnd) + 1)
+      Form15.Show
+      Unload Me
+    End If
+  End If
+ Else
+  If val(MW) + val(OW) < 4 Then
+   PL출전자(선택) = False
+   Form15.Show
+   Unload Me
+  ElseIf val(MW) + val(OW) >= 4 Then
+   If (val(MW) >= 4) Or (val(OW) >= 4) Then
+    Dim 프로리그출전자세팅3 As Integer
+    For 프로리그출전자세팅3 = 1 To 6
+     PL출전자(프로리그출전자세팅3) = True
+    Next
+    Map = Int((12 * Rnd) + 1)
+   
+    If val(MW) >= 4 Then
+      PL넘버 = 2
+     PL승 = 0
+     PL패 = 0
+     If PL진행 = "6강" Then
+      PL진행 = "SPO"
+      PL경기수 = Int((12 * Rnd) + -1)
+     ElseIf PL진행 = "SPO" Then
+      PL진행 = "PO"
+      PL경기수 = Int((12 * Rnd) + -1)
+     ElseIf PL진행 = "PO" Then
+      PL진행 = "Final"
+      PL경기수 = Int((12 * Rnd) + -1)
+     ElseIf PL진행 = "Final" Then
+      MsgBox "프로리그 우승!"
+      PL우승 = val(PL우승) + 1
+      PL진행 = "1R"
+      Money = val(Money) + 10000
+    If Mode = "Normal" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 2
+            견제(i) = val(견제(i)) + 2
+            전략(i) = val(전략(i)) + 2
+            물량(i) = val(물량(i)) + 2
+            수비력(i) = val(수비력(i)) + 2
+            정찰(i) = val(정찰(i)) + 2
+            센스(i) = val(센스(i)) + 2
+            컨트롤(i) = val(컨트롤(i)) + 2
+        Next
+    ElseIf Mode = "Hard" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 5
+            견제(i) = val(견제(i)) + 5
+            전략(i) = val(전략(i)) + 5
+            물량(i) = val(물량(i)) + 5
+            수비력(i) = val(수비력(i)) + 5
+            정찰(i) = val(정찰(i)) + 5
+            센스(i) = val(센스(i)) + 5
+            컨트롤(i) = val(컨트롤(i)) + 5
+        Next
+    ElseIf Mode = "Hell" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 7
+            견제(i) = val(견제(i)) + 7
+            전략(i) = val(전략(i)) + 7
+            물량(i) = val(물량(i)) + 7
+            수비력(i) = val(수비력(i)) + 7
+            정찰(i) = val(정찰(i)) + 7
+            센스(i) = val(센스(i)) + 7
+            컨트롤(i) = val(컨트롤(i)) + 7
+        Next
+    End If
+      PL경기수 = 0
+      Form16.CmdSa.Visible = True
+      Visible확인 = True
+     End If
+    ElseIf val(OW) >= 4 Then
+     PL넘버 = 2
+     PL승 = 0
+     PL패 = 0
+     If PL진행 = "6강" Then
+      PL진행 = "1R"
+      PL경기수 = 0
+     ElseIf PL진행 = "SPO" Then
+      PL진행 = "1R"
+      PL경기수 = 0
+     ElseIf PL진행 = "PO" Then
+      PL진행 = "1R"
+      PL경기수 = 0
+     ElseIf PL진행 = "Final" Then
+      MsgBox "프로리그 준우승!"
+      PL준우승 = val(PL준우승) + 1
+      Money = val(Money) + 7000
+    If Mode = "Normal" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 1
+            견제(i) = val(견제(i)) + 1
+            전략(i) = val(전략(i)) + 1
+            물량(i) = val(물량(i)) + 1
+            수비력(i) = val(수비력(i)) + 1
+            정찰(i) = val(정찰(i)) + 1
+            센스(i) = val(센스(i)) + 1
+            컨트롤(i) = val(컨트롤(i)) + 1
+        Next
+    ElseIf Mode = "Hard" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 4
+            견제(i) = val(견제(i)) + 4
+            전략(i) = val(전략(i)) + 4
+            물량(i) = val(물량(i)) + 4
+            수비력(i) = val(수비력(i)) + 4
+            정찰(i) = val(정찰(i)) + 4
+            센스(i) = val(센스(i)) + 4
+            컨트롤(i) = val(컨트롤(i)) + 4
+        Next
+    ElseIf Mode = "Hell" Then
+        For i = 0 To 800
+            공격력(i) = val(공격력(i)) + 6
+            견제(i) = val(견제(i)) + 6
+            전략(i) = val(전략(i)) + 6
+            물량(i) = val(물량(i)) + 6
+            수비력(i) = val(수비력(i)) + 6
+            정찰(i) = val(정찰(i)) + 6
+            센스(i) = val(센스(i)) + 6
+            컨트롤(i) = val(컨트롤(i)) + 6
+        Next
+    End If
+      PL진행 = "1R"
+      PL경기수 = 0
+     End If
+     Form16.CmdSa.Visible = True
+      Visible확인 = True
+    End If
+    MW = 0
+    OW = 0
+    Form15.Show
+    PLEnd = "True"
+    Unload Me
+   ElseIf val(MW) <= 4 And val(OW) <= 4 Then
+    PL출전자(선택) = False
+     Map = Int((12 * Rnd) + 1)
+     Form15.Show
+     Unload Me
+   End If
+  End If
+ End If
+End If
+
+
+If val(AAA) = 1 Then
+Form15.Show
+Unload Me
+End If
+
+End Sub
+
+Private Sub Timer1_Timer()
+
+If MyRank(선택) = "Normal" Then
+ My랭크량 = 1
+ElseIf MyRank(선택) = "Special" Then
+ My랭크량 = 2
+ElseIf MyRank(선택) = "Rare" Then
+ My랭크량 = 3
+ElseIf MyRank(선택) = "Unique" Then
+ My랭크량 = 4
+ElseIf MyRank(선택) = "Elite" Then
+ My랭크량 = 5
+ElseIf MyRank(선택) = "Legend" Then
+ My랭크량 = 6
+ElseIf MyRank(선택) = "Secret" Then
+ My랭크량 = 7
+ElseIf MyRank(선택) = "Champion" Then
+ My랭크량 = 10
+End If
+
+If 랭크(Oee) = "Normal" Then
+ O랭크량 = 1
+ElseIf 랭크(Oee) = "Special" Then
+ O랭크량 = 2
+ElseIf 랭크(Oee) = "Rare" Then
+ O랭크량 = 3
+ElseIf 랭크(Oee) = "Unique" Then
+ O랭크량 = 4
+ElseIf 랭크(Oee) = "Elite" Then
+ O랭크량 = 5
+ElseIf 랭크(Oee) = "Legend" Then
+ O랭크량 = 6
+ElseIf 랭크(Oee) = "Secret" Then
+ O랭크량 = 7
+ElseIf 랭크(Oee) = "Champion" Then
+ O랭크량 = 10
+End If
+
+If Turn = "OSL" Then
+MW = 0
+OW = 0
+AAA = 0
+End If
+
+  '****리그및 상대 선택
+
+i = 0
+
+  '****선수 선택
+ 'F
+
+
+If Turn = "OSL" Then
+ lblLe = "MystarCraft배 스타리그"
+ If MyNW(선택) = "CB16" Then
+  lblLeDe = "Code B 16강"
+ ElseIf MyNW(선택) = "CB8" Then
+  lblLeDe = "Code B 8강"
+ ElseIf MyNW(선택) = "CB4" Then
+  lblLeDe = "Code B 4강"
+ ElseIf MyNW(선택) = "CBFin" Then
+  lblLeDe = "Code B 결승전"
+ ElseIf MyNW(선택) = "CA1" Then
+  lblLeDe = "Code A 1Round"
+ ElseIf MyNW(선택) = "CA2" Then
+  lblLeDe = "Code A 2Round"
+ ElseIf MyNW(선택) = "CA3" Then
+  lblLeDe = "Code A 3Round"
+ ElseIf MyNW(선택) = "CS32" Then
+  lblLeDe = "Code S 32강"
+ ElseIf MyNW(선택) = "CS16" Then
+  lblLeDe = "Code S 16강"
+ ElseIf MyNW(선택) = "CS8" Then
+  lblLeDe = "Code S 8강"
+ ElseIf MyNW(선택) = "CS4" Then
+  lblLeDe = "Code S 4강"
+ ElseIf MyNW(선택) = "CSFin" Then
+  lblLeDe = "Code S 결승전"
+ ElseIf MyNW(선택) = "UpADo" Then
+  lblLeDe = "승격 강등전"
+ End If
+ElseIf Turn = "PL" Then
+ lblLe = "MystarCraft배 프로리그"
+ lblLeDe = ""
+Else
+ MsgBox "리그 값 오류"
+End If
+
+AAO = val(R공격력(Oee)) + val(R견제(Oee)) + val(R전략(Oee)) + val(R물량(Oee)) + val(R수비력(Oee)) + val(R정찰(Oee)) + val(R센스(Oee)) + val(R컨트롤(Oee))
+
+R공격력(Oee) = Int(val(공격력(Oee)) * val(컨디션(Oee)) / 100)
+R견제(Oee) = Int(val(견제(Oee)) * val(컨디션(Oee)) / 100)
+R전략(Oee) = Int(val(전략(Oee)) * val(컨디션(Oee)) / 100)
+R물량(Oee) = Int(val(물량(Oee)) * val(컨디션(Oee)) / 100)
+R수비력(Oee) = Int(val(수비력(Oee)) * val(컨디션(Oee)) / 100)
+R정찰(Oee) = Int(val(정찰(Oee)) * val(컨디션(Oee)) / 100)
+R센스(Oee) = Int(val(센스(Oee)) * val(컨디션(Oee)) / 100)
+R컨트롤(Oee) = Int(val(컨트롤(Oee)) * val(컨디션(Oee)) / 100)
+  '****상대,내 사진 가져오기
+If Len(Dir(App.Path & "\img\선수\[" & Mid(OYear(Oee), 2, 2) & "]" & 이름(Oee) & ".gif")) <> 0 Then
+ ImgOP = LoadPicture(App.Path & "\img\선수\[" & Mid(OYear(Oee), 2, 2) & "]" & 이름(Oee) & ".gif")
+Else
+ ImgOP = LoadPicture(App.Path & "\img\선수\" & 이름(Oee) & ".gif")
+End If
+
+If Len(Dir(App.Path & "\img\선수\[" & Mid(MyYear(선택), 2, 2) & "]" & MyName(선택) & ".gif")) <> 0 Then
+ ImgP = LoadPicture(App.Path & "\img\선수\[" & Mid(MyYear(선택), 2, 2) & "]" & MyName(선택) & ".gif")
+Else
+ ImgP = LoadPicture(App.Path & "\img\선수\" & MyName(선택) & ".gif")
+End If
+  '****맵 데이타 가져오기
+ImgM.Picture = LoadPicture(App.Path & "\img\맵\" & MapName(Map) & ".gif")
+lblM = MapName(Map)
+
+  '****이름 넣기
+lblMyName = MyYear(선택) & " " & MyName(선택)
+lblOName = OYear(Oee) & " " & 이름(Oee)
+
+If MyTribe(선택) = 1 Then
+ lblMyTr = "T"
+ElseIf MyTribe(선택) = 2 Then
+ lblMyTr = "Z"
+ElseIf MyTribe(선택) = 3 Then
+ lblMyTr = "P"
+End If
+
+If 종족(Oee) = 1 Then
+ lblOTr = "T"
+ElseIf 종족(Oee) = 2 Then
+ lblOTr = "Z"
+ElseIf 종족(Oee) = 3 Then
+ lblOTr = "P"
+End If
+
+Form16.CmdGo.Visible = True
+Timer1.Enabled = False
+CmdGo.Visible = True
+
+End Sub
+
+Private Sub Timer2_Timer()
+ lblMW = val(MW)
+ lblOW = val(OW)
+End Sub
+
+Private Sub txtLoad_Change()
+ Timer1.Enabled = True
+End Sub
+
+Private Sub CmdGo_Click()
+  '****승리 계산
+Randomize 히히히
+Randomize AP
+
+MP = 1
+OP = 1
+
+
+Con = 100
+RAT = Int(val(AT) * val(Con) / 100)
+rR = Int(val(R) * val(Con) / 100)
+RSt = Int(val(St) * val(Con) / 100)
+RAm = Int(val(Am) * val(Con) / 100)
+RDe = Int(val(De) * val(Con) / 100)
+RPa = Int(val(Pa) * val(Con) / 100)
+RSe = Int(val(SE) * val(Con) / 100)
+RCo = Int(val(Co) * val(Con) / 100)
+RAA = val(RAT) + val(rR) + val(RSt) + val(RAm) + val(RDe) + val(RPa) + val(RSe) + val(RCo)
+
+R공격력(Oee) = 공격력(Oee)
+R견제(Oee) = 견제(Oee)
+R전략(Oee) = 전략(Oee)
+R물량(Oee) = 물량(Oee)
+R수비력(Oee) = 수비력(Oee)
+R정찰(Oee) = 정찰(Oee)
+R센스(Oee) = 센스(Oee)
+R컨트롤(Oee) = 컨트롤(Oee)
+
+If MySkill(선택) = 1 Then
+    If 종족(Oee) = 2 Then
+        RCo = val(MyCo(선택)) + 150
+    End If
+ElseIf MySkill(선택) = 2 Then
+    If val(MW) + val(OW) >= 5 Then
+        RAT = val(MyAt(선택)) + 50
+        rR = val(MyR(선택)) + 50
+        RSt = val(MySt(선택)) + 50
+        RAm = val(MyAm(선택)) + 50
+        RDe = val(MyDe(선택)) + 50
+        RPa = val(MyPa(선택)) + 50
+        RSe = val(MySe(선택)) + 50
+        RCo = val(MyCo(선택)) + 50
+    End If
+ElseIf MySkill(선택) = 3 Then
+    If 종족(Oee) = 2 Then
+        RDe = val(MyDe(선택)) - 25
+    ElseIf 종족(Oee) = 3 Then
+        RAT = val(MyAt(선택)) + 150
+    End If
+ElseIf MySkill(선택) = 4 Then
+    If 종족(Oee) = 3 Then
+        RAm = val(MyAm(선택)) + 125
+    End If
+ElseIf MySkill(선택) = 5 Then
+    If 종족(Oee) = 1 Then
+        RAT = val(MyAt(선택)) + 25
+    Else
+        RAm = val(MyAm(선택)) + 50
+    End If
+ElseIf MySkill(선택) = 6 Then
+    If 종족(Oee) = 2 Then
+        RAT = val(MyAt(선택)) - 75
+    ElseIf 종족(Oee) = 3 Then
+        RAm = val(MyAm(선택)) + 200
+    End If
+ElseIf MySkill(선택) = 7 Then
+    RAm = val(MyAm(선택)) + 50
+    If 종족(Oee) = 1 Then
+        RSe = val(MySe(선택)) - 25
+    End If
+ElseIf MySkill(선택) = 8 Then
+    If 종족(Oee) = 2 Then
+        rR = val(MyR(선택)) + 50
+        RCo = val(MyCo(선택)) + 50
+    End If
+ElseIf MySkill(선택) = 9 Then
+    If 종족(Oee) = 1 Or 종족(Oee) = 3 Then
+        RAm = val(MyAm(선택)) + 50
+    End If
+ElseIf MySkill(선택) = 10 Then
+    rR = val(MyR(선택)) + 30
+    If 종족(Oee) = 1 Then
+        RAm = val(MyAm(선택)) + 10
+    End If
+ElseIf MySkill(선택) = 11 Then
+    If 종족(Oee) = 3 Then
+        RCo = val(MyCo(선택)) + 100
+    End If
+ElseIf MySkill(선택) = 12 Then
+    If 종족(Oee) = 1 Then
+        RAm = val(MyAm(선택)) + 100
+        RAT = val(MyAt(선택)) + 100
+    ElseIf 종족(Oee) = 2 Then
+        RCo = val(MyCo(선택)) - 100
+    End If
+ElseIf MySkill(선택) = 13 Then
+    If 종족(Oee) = 3 Then
+        RCo = val(MyCo(선택)) + 50
+        RAm = val(MyAm(선택)) + 50
+    End If
+ElseIf MySkill(선택) = 14 Then
+    If 종족(Oee) = 3 Then
+        rR = val(MyR(선택)) + 100
+    End If
+ElseIf MySkill(선택) = 15 Then
+    If 종족(Oee) = 3 Then
+        RAT = val(MyAt(선택)) + 100
+    End If
+ElseIf MySkill(선택) = 16 Then
+    If 종족(Oee) = 2 Then
+        RAT = val(MyAt(선택)) + 50
+        RCo = val(MyCo(선택)) + 50
+    End If
+ElseIf MySkill(선택) = 17 Then
+    RAm = val(MyAm(선택)) + 25
+ElseIf MySkill(선택) = 18 Then
+    If 종족(Oee) = 2 Then
+        rR = val(MyR(선택)) + 75
+    End If
+ElseIf MySkill(선택) = 19 Then
+    Am = val(MyAm(선택)) + 50
+    Co = val(MyCo(선택)) - 25
+ElseIf MySkill(선택) = 20 Then
+    If 종족(Oee) = 2 Then
+        RCo = val(MyCo(선택)) + 75
+    End If
+ElseIf MySkill(선택) = 21 Then
+    If 종족(Oee) = 2 Then
+        RCo = val(MyCo(선택)) + 100
+        RAT = val(MyAt(선택)) + 50
+    ElseIf 종족(Oee) = 3 Then
+        rR = val(MyR(선택)) - 75
+    End If
+ElseIf MySkill(선택) = 22 Then
+    If val(MW) < val(OW) Then
+        RAT = val(MyAt(선택)) + 30
+        rR = val(MyR(선택)) + 30
+        RSt = val(MySt(선택)) + 30
+        RAm = val(MyAm(선택)) + 30
+        RDe = val(MyDe(선택)) + 30
+        RPa = val(MyPa(선택)) + 30
+        RSe = val(MySe(선택)) + 30
+        RCo = val(MyCo(선택)) + 30
+    End If
+ElseIf MySkill(선택) = 23 Then
+    If 종족(Oee) = 1 Then
+        RSe = val(MySe(선택)) + 75
+    End If
+ElseIf MySkill(선택) = 24 Then
+    If 종족(Oee) = 3 Then
+        RAm = val(MyAm(선택)) + 75
+    End If
+ElseIf MySkill(선택) = 25 Then
+    If 종족(Oee) = 2 Then
+        RCo = val(MyCo(선택)) - 50
+    ElseIf 종족(Oee) = 3 Then
+        RAm = val(MyAm(선택)) + 125
+    End If
+ElseIf MySkill(선택) = 26 Then
+    If 종족(Oee) = 2 Then
+        RAT = val(MyAt(선택)) + 100
+    ElseIf 종족(Oee) = 3 Then
+        RAm = val(MyAm(선택)) - 25
+    End If
+ElseIf MySkill(선택) = 27 Then
+    If 종족(Oee) = 1 Then
+        RAm = val(MyAm(선택)) + 75
+    End If
+ElseIf MySkill(선택) = 28 Then
+    RDe = val(MyDe(선택)) + 25
+ElseIf MySkill(선택) = 29 Then
+    If 종족(Oee) = 2 Then
+        RCo = val(MyCo(선택)) + 200
+    ElseIf 종족(Oee) = 3 Then
+        RAm = val(MyAm(선택)) - 125
+    End If
+ElseIf MySkill(선택) = 30 Then
+    If 종족(Oee) = 2 Then
+        rR = val(MyR(선택)) + 125
+    End If
+ElseIf MySkill(선택) = 31 Then
+    RAT = val(MyAt(선택)) + 25
+ElseIf MySkill(선택) = 32 Then
+    rR = val(MyR(선택)) + 25
+ElseIf MySkill(선택) = 33 Then
+    RSt = val(MySt(선택)) + 25
+ElseIf MySkill(선택) = 34 Then
+    RAm = val(MyAm(선택)) + 25
+ElseIf MySkill(선택) = 35 Then
+    RDe = val(MyDe(선택)) + 25
+ElseIf MySkill(선택) = 36 Then
+    RPa = val(MyPa(선택)) + 25
+ElseIf MySkill(선택) = 37 Then
+    RSe = val(MySe(선택)) + 25
+ElseIf MySkill(선택) = 38 Then
+    RCo = val(MyCo(선택)) + 25
+End If
+
+If Skill(Oee) = 1 Then
+    If MyTribe(선택) = 2 Then
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 150
+    End If
+ElseIf Skill(Oee) = 2 Then
+    If val(MW) + val(OW) >= 5 Then
+        R공격력(Oee) = val(공격력(Oee)) + 50
+        R견제(Oee) = val(견제(Oee)) + 50
+        R전략(Oee) = val(전략(Oee)) + 50
+        R물량(Oee) = val(물량(Oee)) + 50
+        R수비력(Oee) = val(수비력(Oee)) + 50
+        R정찰(Oee) = val(정찰(Oee)) + 50
+        R센스(Oee) = val(센스(Oee)) + 50
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 50
+    End If
+ElseIf Skill(Oee) = 3 Then
+    If MyTribe(선택) = 2 Then
+        R수비력(Oee) = val(수비력(Oee)) - 25
+    ElseIf MyTribe(선택) = 3 Then
+        R공격력(Oee) = val(공격력(Oee)) + 150
+    End If
+ElseIf Skill(Oee) = 4 Then
+    If MyTribe(선택) = 3 Then
+        R물량(Oee) = val(물량(Oee)) + 125
+    End If
+ElseIf Skill(Oee) = 5 Then
+    If MyTribe(선택) = 1 Then
+        R공격력(Oee) = val(공격력(Oee)) + 25
+    Else
+        R물량(Oee) = val(물량(Oee)) + 50
+    End If
+ElseIf Skill(Oee) = 6 Then
+    If MyTribe(선택) = 2 Then
+        R공격력(Oee) = val(공격력(Oee)) - 75
+    ElseIf MyTribe(선택) = 3 Then
+        R물량(Oee) = val(물량(Oee)) + 200
+    End If
+ElseIf Skill(Oee) = 7 Then
+    R물량(Oee) = val(물량(Oee)) + 50
+    If MyTribe(선택) = 1 Then
+        R센스(Oee) = val(센스(Oee)) - 25
+    End If
+ElseIf Skill(Oee) = 8 Then
+    If MyTribe(선택) = 2 Then
+        R견제(Oee) = val(견제(Oee)) + 50
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 50
+    End If
+ElseIf Skill(Oee) = 9 Then
+    If MyTribe(선택) = 1 Or MyTribe(선택) = 3 Then
+        R물량(Oee) = val(물량(Oee)) + 50
+    End If
+ElseIf Skill(Oee) = 10 Then
+    R견제(Oee) = val(견제(Oee)) + 30
+    If MyTribe(선택) = 1 Then
+        R물량(Oee) = val(물량(Oee)) + 10
+    End If
+ElseIf Skill(Oee) = 11 Then
+    If MyTribe(선택) = 3 Then
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 100
+    End If
+ElseIf Skill(Oee) = 12 Then
+    If MyTribe(선택) = 1 Then
+        R물량(Oee) = val(물량(Oee)) + 100
+        R공격력(Oee) = val(공격력(Oee)) + 100
+    ElseIf MyTribe(선택) = 2 Then
+        R컨트롤(Oee) = val(컨트롤(Oee)) - 100
+    End If
+ElseIf Skill(Oee) = 13 Then
+    If MyTribe(선택) = 3 Then
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 50
+        R물량(Oee) = val(물량(Oee)) + 50
+    End If
+ElseIf Skill(Oee) = 14 Then
+    If MyTribe(선택) = 3 Then
+        R견제(Oee) = val(견제(Oee)) + 100
+    End If
+ElseIf Skill(Oee) = 15 Then
+    If MyTribe(선택) = 3 Then
+        R공격력(Oee) = val(공격력(Oee)) + 100
+    End If
+ElseIf Skill(Oee) = 16 Then
+    If MyTribe(선택) = 2 Then
+        R공격력(Oee) = val(공격력(Oee)) + 50
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 50
+    End If
+ElseIf Skill(Oee) = 17 Then
+    R물량(Oee) = val(물량(Oee)) + 25
+ElseIf Skill(Oee) = 18 Then
+    If MyTribe(선택) = 2 Then
+        R견제(Oee) = val(견제(Oee)) + 75
+    End If
+ElseIf Skill(Oee) = 19 Then
+    Am = val(물량(Oee)) + 50
+    Co = val(컨트롤(Oee)) - 25
+ElseIf Skill(Oee) = 20 Then
+    If MyTribe(선택) = 2 Then
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 75
+    End If
+ElseIf Skill(Oee) = 21 Then
+    If MyTribe(선택) = 2 Then
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 100
+        R공격력(Oee) = val(공격력(Oee)) + 50
+    ElseIf MyTribe(선택) = 3 Then
+        R견제(Oee) = val(견제(Oee)) - 75
+    End If
+ElseIf Skill(Oee) = 22 Then
+    If val(OW) < val(MW) Then
+        R공격력(Oee) = val(공격력(Oee)) + 30
+        R견제(Oee) = val(견제(Oee)) + 30
+        R전략(Oee) = val(전략(Oee)) + 30
+        R물량(Oee) = val(물량(Oee)) + 30
+        R수비력(Oee) = val(수비력(Oee)) + 30
+        R정찰(Oee) = val(정찰(Oee)) + 30
+        R센스(Oee) = val(센스(Oee)) + 30
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 30
+    End If
+ElseIf Skill(Oee) = 23 Then
+    If MyTribe(선택) = 1 Then
+        R센스(Oee) = val(센스(Oee)) + 75
+    End If
+ElseIf Skill(Oee) = 24 Then
+    If MyTribe(선택) = 3 Then
+        R물량(Oee) = val(물량(Oee)) + 75
+    End If
+ElseIf Skill(Oee) = 25 Then
+    If MyTribe(선택) = 2 Then
+        R컨트롤(Oee) = val(컨트롤(Oee)) - 50
+    ElseIf MyTribe(선택) = 3 Then
+        R물량(Oee) = val(물량(Oee)) + 125
+    End If
+ElseIf Skill(Oee) = 26 Then
+    If MyTribe(선택) = 2 Then
+        R공격력(Oee) = val(공격력(Oee)) + 100
+    ElseIf MyTribe(선택) = 3 Then
+        R물량(Oee) = val(물량(Oee)) - 25
+    End If
+ElseIf Skill(Oee) = 27 Then
+    If MyTribe(선택) = 1 Then
+        R물량(Oee) = val(물량(Oee)) + 75
+    End If
+ElseIf Skill(Oee) = 28 Then
+    R수비력(Oee) = val(수비력(Oee)) + 25
+ElseIf Skill(Oee) = 29 Then
+    If MyTribe(선택) = 2 Then
+        R컨트롤(Oee) = val(컨트롤(Oee)) + 200
+    ElseIf MyTribe(선택) = 3 Then
+        R물량(Oee) = val(물량(Oee)) - 125
+    End If
+ElseIf Skill(Oee) = 30 Then
+    If MyTribe(선택) = 2 Then
+        R견제(Oee) = val(견제(Oee)) + 125
+    End If
+ElseIf Skill(Oee) = 31 Then
+    R공격력(Oee) = val(공격력(Oee)) + 25
+ElseIf Skill(Oee) = 32 Then
+    R견제(Oee) = val(견제(Oee)) + 25
+ElseIf Skill(Oee) = 33 Then
+    R전략(Oee) = val(전략(Oee)) + 25
+ElseIf Skill(Oee) = 34 Then
+    R물량(Oee) = val(물량(Oee)) + 25
+ElseIf Skill(Oee) = 35 Then
+    R수비력(Oee) = val(수비력(Oee)) + 25
+ElseIf Skill(Oee) = 36 Then
+    R정찰(Oee) = val(정찰(Oee)) + 25
+ElseIf Skill(Oee) = 37 Then
+    R센스(Oee) = val(센스(Oee)) + 25
+ElseIf Skill(Oee) = 38 Then
+    R컨트롤(Oee) = val(컨트롤(Oee)) + 25
+End If
+
+RAA = val(RAT) + val(rR) + val(RSt) + val(RAm) + val(RDe) + val(RPa) + val(RSe) + val(RCo)
+RAAO = val(R공격력(Oee)) + val(R견제(Oee)) + val(R전략(Oee)) + val(R물량(Oee)) + val(R수비력(Oee)) + val(R정찰(Oee)) + val(R센스(Oee)) + val(R컨트롤(Oee))
+
+히히히 = Int((Oee * Rnd) + 1)
+우히힛 = 0
+Do Until 우히힛 = 히히히
+ AP = val((101 * Rnd) + 0)
+ AP = val((101 * Rnd) + 0)
+ 우히힛 = 우히힛 + 1
+
+Loop
+Randomize AP
+RAA = val(RAT) + val(rR) + val(RSt) + val(RAm) + val(RDe) + val(RPa) + val(RSe) + val(RCo)
+
+  '****Point 계산
+RAAO = val(R공격력(Oee)) + val(R견제(Oee)) + val(R전략(Oee)) + val(R물량(Oee)) + val(R수비력(Oee)) + val(R정찰(Oee)) + val(R센스(Oee)) + val(R컨트롤(Oee))
+
+'테테
+If MyTribe(선택) = 1 And 종족(Oee) = 1 Then
+ 
+MP = val(MP) * val(RSe) * val(RCo) * val(RAm) * 20 / 100000000
+OP = val(OP) * val(R센스(Oee)) * val(R컨트롤(Oee)) * val(R물량(Oee)) * 20 / 10000000
+
+'테저
+ElseIf MyTribe(선택) = 1 And 종족(Oee) = 2 Then
+
+MP = val(MP) * val(RAT) * val(RCo) * val(rR) * val(RAm) * 20 / 1000000000
+OP = val(OP) * val(R물량(Oee)) * val(R수비력(Oee)) * val(R견제(Oee)) * val(R공격력(Oee)) * 20 / 1000000000
+
+'테프
+ElseIf MyTribe(선택) = 1 And 종족(Oee) = 3 Then
+
+MP = val(MP) * val(RAm) * val(RDe) * val(rR) * 20 / 10000000
+OP = val(OP) * val(R물량(Oee)) * val(R수비력(Oee)) * val(R공격력(Oee)) * 20 / 10000000
+
+'저테
+ElseIf MyTribe(선택) = 2 And 종족(Oee) = 1 Then
+
+MP = val(MP) * val(RAm) * val(RDe) * val(rR) * val(RAT) * 20 / 1000000000
+OP = val(OP) * val(R공격력(Oee)) * val(R컨트롤(Oee)) * val(R견제(Oee)) * val(R물량(Oee)) * 20 / 1000000000
+
+'저저
+ElseIf MyTribe(선택) = 2 And 종족(Oee) = 2 Then
+ 
+MP = val(MP) * val(RAT) * val(RCo) * val(RSe) * 20 / 10000000
+OP = val(OP) * val(R공격력(Oee)) * val(R컨트롤(Oee)) * val(R센스(Oee)) * 20 / 10000000
+
+'저프
+ElseIf MyTribe(선택) = 2 And 종족(Oee) = 3 Then
+
+MP = val(MP) * val(RAm) * val(RDe) * val(RCo) * 20 / 10000000
+OP = val(OP) * val(R정찰(Oee)) * val(R견제(Oee)) * val(R컨트롤(Oee)) * 20 / 10000000
+
+'프테
+ElseIf MyTribe(선택) = 3 And 종족(Oee) = 1 Then
+
+MP = val(MP) * val(RAm) * val(RDe) * val(RAT) * 20 / 10000000
+OP = val(OP) * val(R물량(Oee)) * val(R수비력(Oee)) * val(R견제(Oee)) * 20 / 10000000
+
+'프저
+ElseIf MyTribe(선택) = 3 And 종족(Oee) = 2 Then
+
+MP = val(MP) * val(RPa) * val(rR) * val(RCo) * 20 / 10000000
+OP = val(OP) * val(R물량(Oee)) * val(R수비력(Oee)) * val(R컨트롤(Oee)) * 20 / 10000000
+
+'프프
+ElseIf MyTribe(선택) = 3 And 종족(Oee) = 3 Then
+
+MP = val(MP) * val(RAm) * val(RCo) * val(RSe) * val(rR) * 20 / 1000000000
+OP = val(OP) * val(R물량(Oee)) * val(R컨트롤(Oee)) * val(R센스(Oee)) * val(R견제(Oee)) * 20 / 1000000000
+
+End If
+
+MP = val(MP) + val(RPa)
+OP = val(OP) + val(R정찰(Oee))
+
+  '****맵
+   '****러쉬거리
+If val(러쉬거리(Map)) = 1 Then
+ MP = MP + val(RAT) * 5
+ OP = OP + val(R공격력(Oee)) * 5
+ElseIf val(러쉬거리(Map)) = 2 Then
+ MP = MP + val(RAT) * 4
+ OP = OP + val(R공격력(Oee)) * 4
+ElseIf val(러쉬거리(Map)) = 3 Then
+ MP = MP + val(RAT) * 3
+ OP = OP + val(R공격력(Oee)) * 3
+ElseIf val(러쉬거리(Map)) = 4 Then
+ MP = MP + val(RAT) * 2
+ OP = OP + val(R공격력(Oee)) * 2
+ElseIf val(러쉬거리(Map)) = 5 Then
+ MP = MP + (val(RAT) + val(RDe)) * 1
+ OP = OP + (val(R공격력(Oee)) + val(R수비력(Oee))) * 1
+ElseIf val(러쉬거리(Map)) = 6 Then
+ MP = MP + val(RDe) * 2
+ OP = OP + val(R수비력(Oee)) * 2
+ElseIf val(러쉬거리(Map)) = 7 Then
+ MP = MP + val(RDe) * 3
+ OP = OP + val(R수비력(Oee)) * 3
+ElseIf val(러쉬거리(Map)) = 8 Then
+ MP = MP + val(RDe) * 4
+ OP = OP + val(R수비력(Oee)) * 4
+ElseIf val(러쉬거리(Map)) = 9 Then
+ MP = MP + val(RDe) * 5
+ OP = OP + val(R수비력(Oee)) * 5
+Else
+ MsgBox "맵 러쉬거리 오류"
+End If
+
+   '****자원
+MP = val(MP) + val(RAm) * val(자원(Map))
+OP = val(OP) + val(R물량(Oee)) * val(자원(Map))
+
+   '****복잡도
+MP = val(MP) + (val(RSt) + val(RPa)) * val(복잡도(Map))
+OP = val(OP) + (val(R전략(Oee)) + val(R정찰(Oee))) * val(복잡도(Map))
+
+   '****총 스탯
+MP = MP + val(RAA) * 100
+OP = OP + val(RAAO) * 100
+
+If val(My랭크량) <> val(O랭크량) Then
+If val(My랭크량) > val(O랭크량) Then
+ MP = val(MP) * 2 * (Abs(val(My랭크량) - val(O랭크량)))
+Else
+ OP = val(OP) * 2 * (Abs(val(My랭크량) - val(O랭크량)))
+End If
+Else
+End If
+
+
+
+Map = Int((12 * Rnd) + 1)
+lblM = MapName(Map)
+ImgM.Picture = LoadPicture(App.Path & "\img\맵\" & MapName(Map) & ".gif")
+
+If val(MyTribe(선택)) = 1 Then
+ If val(종족(Oee)) = 1 Then
+  ProgressBar1.Value = 50
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & "50 : 50" & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 2 Then
+  MP = val(MP) * (TZT(Map)) + TZT(Map) * 500
+  OP = val(OP) * (TZZ(Map)) + TZZ(Map) * 500
+  ProgressBar1.Value = TZT(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & TZT(Map) & " : " & TZZ(Map) & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 3 Then
+  MP = val(MP) * (PTT(Map)) + PTT(Map) * 500
+  OP = val(OP) * (PTP(Map)) + PTP(Map) * 500
+  ProgressBar1.Value = PTT(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & PTT(Map) & " : " & PTP(Map) & OYear(Oee) & 이름(Oee)
+ End If
+ 
+ElseIf val(MyTribe(선택)) = 2 Then
+
+ If val(종족(Oee)) = 1 Then
+  MP = val(MP) * (TZZ(Map)) + TZZ(Map) * 500
+  OP = val(OP) * (TZT(Map)) + TZT(Map) * 500
+  ProgressBar1.Value = TZZ(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & TZZ(Map) & " : " & TZT(Map) & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 2 Then
+  ProgressBar1.Value = 50
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & "50 : 50" & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 3 Then
+  MP = val(MP) * (ZPZ(Map)) + ZPZ(Map) * 500
+  OP = val(OP) * (ZPP(Map)) + ZPP(Map) * 500
+  ProgressBar1.Value = ZPZ(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & ZPZ(Map) & " : " & ZPP(Map) & OYear(Oee) & 이름(Oee)
+ End If
+ 
+ElseIf val(MyTribe(선택)) = 3 Then
+
+ If val(종족(Oee)) = 1 Then
+  MP = val(MP) * (PTP(Map)) + PTP(Map) * 500
+  OP = val(OP) * (PTT(Map)) + PTT(Map) * 500
+  ProgressBar1.Value = PTP(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & PTP(Map) & " : " & PTT(Map) & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 2 Then
+  MP = val(MP) * (ZPP(Map)) + ZPP(Map) * 500
+  OP = val(OP) * (ZPZ(Map)) + ZPZ(Map) * 500
+  ProgressBar1.Value = ZPP(Map)
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & ZPP(Map) & " : " & ZPZ(Map) & OYear(Oee) & 이름(Oee)
+ ElseIf val(종족(Oee)) = 3 Then
+  ProgressBar1.Value = 50
+  ProgressBar1.Text = MyYear(선택) & MyName(선택) & "50 : 50" & OYear(Oee) & 이름(Oee)
+ End If
+End If
+
+MP = val(MP) + val(AA) * 1000
+OP = val(OP) + val(AAO) * 1000
+히힛 = val(MP) * 100 / val(val(MP) + val(OP))
+
+If 0 <= val(AP) And val(AP) <= val(히힛) Then
+ Winer = "나"
+ElseIf val(히힛) < val(AP) And val(AP) <= 100 Then
+ Winer = "상대"
+End If
+
+If Text2.Text <> "이히히" Then
+Text2.Text = "이히히"
+Else
+Text2.Text = "우히히"
+End If
+End Sub

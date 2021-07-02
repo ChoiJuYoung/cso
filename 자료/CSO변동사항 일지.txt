@@ -1,0 +1,7 @@
+05 / 15
+ - 개인리그 시작 위치가 랭크에 따라 변경되었습니다.
+  - Normal / Special : Code B 16강
+  - Rare : Code A 1Round
+  - Unique : Code A 2Round
+  - Elite : Code A 3Round
+  - Legend / Secret / Champion : Code S 32강

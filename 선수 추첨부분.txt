@@ -1,0 +1,612 @@
+Randomize Oee
+
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+End If
+
+Do Until (Á¾Á·(Oee) = 1)
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+End If
+
+Loop
+MyName(1) = ÀÌ¸§(Oee)
+MyTribe(1) = 1
+MyAt(1) = °ø°Ý·Â(Oee)
+MyR(1) = °ßÁ¦(Oee)
+MySt(1) = Àü·«(Oee)
+MyAm(1) = ¹°·®(Oee)
+MyDe(1) = ¼öºñ·Â(Oee)
+MyPa(1) = Á¤Âû(Oee)
+MySe(1) = ¼¾½º(Oee)
+MyCo(1) = ÄÁÆ®·Ñ(Oee)
+MyYear(1) = OYear(Oee)
+MyRank(1) = ·©Å©(Oee)
+MyTeam(1) = Team(Oee)
+MySkill(1) = Skill(Oee)
+PlayNumber(1) = Oee
+Randomize Oee
+
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+End If
+
+Do Until (Á¾Á·(Oee) = 2)
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+End If
+
+Loop
+MyName(2) = ÀÌ¸§(Oee)
+MyTribe(2) = 2
+MyAt(2) = °ø°Ý·Â(Oee)
+MyR(2) = °ßÁ¦(Oee)
+MySt(2) = Àü·«(Oee)
+MyAm(2) = ¹°·®(Oee)
+MyDe(2) = ¼öºñ·Â(Oee)
+MyPa(2) = Á¤Âû(Oee)
+MySe(2) = ¼¾½º(Oee)
+MyCo(2) = ÄÁÆ®·Ñ(Oee)
+MyYear(2) = OYear(Oee)
+MyRank(2) = ·©Å©(Oee)
+MyTeam(2) = Team(Oee)
+MySkill(2) = Skill(Oee)
+PlayNumber(2) = Oee
+Randomize Oee
+
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+End If
+
+Do Until (Á¾Á·(Oee) = 3)
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+  Oee = Int((361 * Rnd) + 1) * 2
+ Loop
+End If
+
+Loop
+MyName(3) = ÀÌ¸§(Oee)
+MyTribe(3) = 3
+MyAt(3) = °ø°Ý·Â(Oee)
+MyR(3) = °ßÁ¦(Oee)
+MySt(3) = Àü·«(Oee)
+MyAm(3) = ¹°·®(Oee)
+MyDe(3) = ¼öºñ·Â(Oee)
+MyPa(3) = Á¤Âû(Oee)
+MySe(3) = ¼¾½º(Oee)
+MyCo(3) = ÄÁÆ®·Ñ(Oee)
+MyYear(3) = OYear(Oee)
+MyRank(3) = ·©Å©(Oee)
+MyTeam(3) = Team(Oee)
+MySkill(3) = Skill(Oee)
+PlayNumber(3) = Oee
+Randomize Oee
+
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+End If
+
+Do Until (Á¾Á·(Oee) = 1)
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+End If
+
+Loop
+MyName(4) = ÀÌ¸§(Oee)
+MyTribe(4) = 1
+MyAt(4) = °ø°Ý·Â(Oee)
+MyR(4) = °ßÁ¦(Oee)
+MySt(4) = Àü·«(Oee)
+MyAm(4) = ¹°·®(Oee)
+MyDe(4) = ¼öºñ·Â(Oee)
+MyPa(4) = Á¤Âû(Oee)
+MySe(4) = ¼¾½º(Oee)
+MyCo(4) = ÄÁÆ®·Ñ(Oee)
+MyYear(4) = OYear(Oee)
+MyRank(4) = ·©Å©(Oee)
+MyTeam(4) = Team(Oee)
+MySkill(4) = Skill(Oee)
+PlayNumber(4) = Oee
+Randomize Oee
+
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+End If
+
+Do Until (Á¾Á·(Oee) = 2)
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+End If
+
+Loop
+MyName(5) = ÀÌ¸§(Oee)
+MyTribe(5) = 2
+MyAt(5) = °ø°Ý·Â(Oee)
+MyR(5) = °ßÁ¦(Oee)
+MySt(5) = Àü·«(Oee)
+MyAm(5) = ¹°·®(Oee)
+MyDe(5) = ¼öºñ·Â(Oee)
+MyPa(5) = Á¤Âû(Oee)
+MySe(5) = ¼¾½º(Oee)
+MyCo(5) = ÄÁÆ®·Ñ(Oee)
+MyYear(5) = OYear(Oee)
+MyRank(5) = ·©Å©(Oee)
+MyTeam(5) = Team(Oee)
+MySkill(5) = Skill(Oee)
+PlayNumber(5) = Oee
+Randomize Oee
+
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+End If
+
+Do Until (Á¾Á·(Oee) = 3)
+If Mode = "Normal" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hard" Then
+    CR = Int((118 * Rnd) + 3)
+ElseIf Mode = "Hell" Then
+    CR = Int((120 * Rnd) + 1)
+End If
+Oee = Int((800 * Rnd) + 1)
+If val(CR) = 2 Then
+ Do Until ·©Å©(Oee) = "Legend"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) = 3 Or val(CR) = 4 Then
+ Do Until ·©Å©(Oee) = "Elite"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 5 And val(CR) <= 10 Then
+ Do Until ·©Å©(Oee) = "Unique"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 11 And val(CR) <= 20 Then
+ Do Until ·©Å©(Oee) = "Rare"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+ElseIf val(CR) >= 21 And val(CR) <= 50 Then
+ Do Until ·©Å©(Oee) = "Special"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+Else
+ Do Until ·©Å©(Oee) = "Normal"
+ Oee = (Int((362 * Rnd) + 1) * 2) - 1
+ Loop
+End If
+
+Loop
+MyName(6) = ÀÌ¸§(Oee)
+MyTribe(6) = 3
+MyAt(6) = °ø°Ý·Â(Oee)
+MyR(6) = °ßÁ¦(Oee)
+MySt(6) = Àü·«(Oee)
+MyAm(6) = ¹°·®(Oee)
+MyDe(6) = ¼öºñ·Â(Oee)
+MyPa(6) = Á¤Âû(Oee)
+MySe(6) = ¼¾½º(Oee)
+MyCo(6) = ÄÁÆ®·Ñ(Oee)
+MyYear(6) = OYear(Oee)
+MyRank(6) = ·©Å©(Oee)
+MyTeam(6) = Team(Oee)
+MySkill(6) = Skill(Oee)
+PlayNumber(6) = Oee
+Randomize Oee
+
+
+µ··® = 0
+Dim µ¹·Á As Integer
+For µ¹·Á = 1 To 6
+ If MyRank(µ¹·Á) = "Normal" Then
+  µ··® = val(µ··®) + 1
+ ElseIf MyRank(µ¹·Á) = "Special" Then
+  µ··® = val(µ··®) + 2
+ ElseIf MyRank(µ¹·Á) = "Rare" Then
+  µ··® = val(µ··®) + 3
+ ElseIf MyRank(µ¹·Á) = "Unique" Then
+  µ··® = val(µ··®) + 4
+ ElseIf MyRank(µ¹·Á) = "Elite" Then
+  µ··® = val(µ··®) + 5
+ ElseIf MyRank(µ¹·Á) = "Legend" Then
+  µ··® = val(µ··®) + 6
+ ElseIf MyRank(µ¹·Á) = "Secret" Then
+  µ··® = val(µ··®) + 7
+ End If
+Next
+
+If val(µ··®) = 6 Then
+ Money = 25000
+ElseIf (val(µ··®) >= 7) And (val(µ··®) <= 12) Then
+ Money = 20000
+ElseIf (val(µ··®) >= 13) And (val(µ··®) <= 18) Then
+ Money = 15000
+ElseIf (val(µ··®) >= 19) And (val(µ··®) <= 24) Then
+ Money = 10000
+ElseIf (val(µ··®) >= 25) And (val(µ··®) <= 30) Then
+ Money = 5000
+ElseIf (val(µ··®) >= 31) And (val(µ··®) <= 36) Then
+ Money = 2000
+ElseIf (val(µ··®) >= 37) And (val(µ··®) <= 42) Then
+ Money = 1000
+End If
+È®ÀÎ¿ë1 = val(Money) / 2
+
+For °µ¸®±× = 1 To 6
+    If MyRank(°µ¸®±×) = "Normal" Or MyRank(°µ¸®±×) = "Special" Then
+        MyNW(°µ¸®±×) = "CB16"
+    ElseIf MyRank(°µ¸®±×) = "Rare" Then
+        MyNW(°µ¸®±×) = "CA1"
+    ElseIf MyRank(°µ¸®±×) = "Unique" Then
+        MyNW(°µ¸®±×) = "CA2"
+    ElseIf MyRank(°µ¸®±×) = "Elite" Then
+        MyNW(°µ¸®±×) = "CA3"
+    Else
+        MyNW(°µ¸®±×) = "CS32"
+    End If
+Next °µ¸®±×
+
+TeamName = InputBox("´Ð³×ÀÓÀ» ÀÔ·ÂÇÏ¼¼¿ä.")
+If Mode = "Normal" Then
+    For i = 1 To 6
+        MyAt(i) = val(MyAt(i)) + 50
+        MyR(i) = val(MyR(i)) + 50
+        MySt(i) = val(MySt(i)) + 50
+        MyAm(i) = val(MyAm(i)) + 50
+        MyDe(i) = val(MyDe(i)) + 50
+        MyPa(i) = val(MyPa(i)) + 50
+        MySe(i) = val(MySe(i)) + 50
+        MyCo(i) = val(MyCo(i)) + 50
+    Next
+    For Oee = 0 To 800
+        NPC°ø°Ý·Â(Oee) = val(NPC°ø°Ý·Â(Oee)) + 50
+        NPC°ßÁ¦(Oee) = val(NPC°ßÁ¦(Oee)) + 50
+        NPCÀü·«(Oee) = val(NPCÀü·«(Oee)) + 50
+        NPC¹°·®(Oee) = val(NPC¹°·®(Oee)) + 50
+        NPC¼öºñ·Â(Oee) = val(NPC¼öºñ·Â(Oee)) + 50
+        NPCÁ¤Âû(Oee) = val(NPCÁ¤Âû(Oee)) + 50
+        NPC¼¾½º(Oee) = val(NPC¼¾½º(Oee)) + 50
+        NPCÄÁÆ®·Ñ(Oee) = val(NPCÄÁÆ®·Ñ(Oee)) + 50
+    Next
+ElseIf Mode = "Hell" Then
+    For Oee = 0 To 800
+        °ø°Ý·Â(Oee) = val(°ø°Ý·Â(Oee)) + 50
+        °ßÁ¦(Oee) = val(°ßÁ¦(Oee)) + 50
+        Àü·«(Oee) = val(Àü·«(Oee)) + 50
+        ¹°·®(Oee) = val(¹°·®(Oee)) + 50
+        ¼öºñ·Â(Oee) = val(¼öºñ·Â(Oee)) + 50
+        Á¤Âû(Oee) = val(Á¤Âû(Oee)) + 50
+        ¼¾½º(Oee) = val(¼¾½º(Oee)) + 50
+        ÄÁÆ®·Ñ(Oee) = val(ÄÁÆ®·Ñ(Oee)) + 50
+    Next
+End If
+ÇÏÇâ = 0
+ÇÏÇâÈ½¼ö = 0

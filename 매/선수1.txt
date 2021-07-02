@@ -1,0 +1,7218 @@
+ElseIf Oee = 119 Then
+이름(Oee) = "강민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 700
+전략(Oee) = 900
+물량(Oee) = 600
+수비력(Oee) = 850
+정찰(Oee) = 650
+센스(Oee) = 800
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 120 Then
+이름(Oee) = "김동수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 600
+수비력(Oee) = 400
+정찰(Oee) = 450
+센스(Oee) = 450
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 121 Then
+이름(Oee) = "김윤환"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 122 Then
+이름(Oee) = "박정석"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 123 Then
+이름(Oee) = "배병우"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 750
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 124 Then
+이름(Oee) = "변길섭"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 1
+공격력(Oee) = 850
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 550
+수비력(Oee) = 500
+정찰(Oee) = 400
+센스(Oee) = 400
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 125 Then
+이름(Oee) = "이병민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 1
+공격력(Oee) = 550
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 126 Then
+이름(Oee) = "이영호"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 1
+공격력(Oee) = 900
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 750
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 127 Then
+이름(Oee) = "이영호1"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 700
+전략(Oee) = 750
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 128 Then
+이름(Oee) = "임재덕"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 129 Then
+이름(Oee) = "정명호"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 130 Then
+이름(Oee) = "조용호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 500
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 131 Then
+이름(Oee) = "홍진호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 850 
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 500
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 700
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 132 Then
+이름(Oee) = "김동건"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 133 Then
+이름(Oee) = "박성준1"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 800
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 134 Then
+이름(Oee) = "박성훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 550
+견제(Oee) = 650
+전략(Oee) = 800
+물량(Oee) = 500
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+ElseIf Oee = 135 Then
+이름(Oee) = "변은종"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 800
+견제(Oee) = 600
+전략(Oee) = 450
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 500
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 136 Then
+이름(Oee) = "송병구"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 900
+견제(Oee) = 700
+전략(Oee) = 800
+물량(Oee) = 900
+수비력(Oee) = 700
+정찰(Oee) = 850
+센스(Oee) = 900
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 137 Then
+이름(Oee) = "이성은"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 800
+전략(Oee) = 850
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 650
+센스(Oee) = 850
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 138 Then
+이름(Oee) = "이재황"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 139 Then
+이름(Oee) = "이창훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 500
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 140 Then
+이름(Oee) = "임채성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 141 Then
+이름(Oee) = "장용석"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 142 Then
+이름(Oee) = "주영달"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 800
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 142 Then
+이름(Oee) = "허영무"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 850
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 143 Then
+이름(Oee) = "김구현"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 800
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 144 Then
+이름(Oee) = "김민제"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 145 Then
+이름(Oee) = "김윤중"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 450
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 146 Then
+이름(Oee) = "김윤환1"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 147 Then
+이름(Oee) = "박성진"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 550
+수비력(Oee) = 700
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 148 Then
+이름(Oee) = "박정욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 500
+물량(Oee) = 800
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 149 Then
+이름(Oee) = "박종수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 150 Then
+이름(Oee) = "서지수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 400
+물량(Oee) = 350
+수비력(Oee) = 350
+정찰(Oee) = 350
+센스(Oee) = 400
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 151 Then
+이름(Oee) = "이철민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 600
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 152 Then
+이름(Oee) = "조일장"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 153 Then
+이름(Oee) = "진영수"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 850
+견제(Oee) = 950
+전략(Oee) = 700
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 900
+센스(Oee) = 850
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 154 Then
+이름(Oee) = "최연식"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 700
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 450
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 155 Then
+이름(Oee) = "김남기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 700
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 156 Then
+이름(Oee) = "김동주"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 157 Then
+이름(Oee) = "김명운"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 158 Then
+이름(Oee) = "김병욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 159 Then
+이름(Oee) = "김인기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 160 Then
+이름(Oee) = "김승현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 161 Then
+이름(Oee) = "김준영"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 750
+물량(Oee) = 950
+수비력(Oee) = 950
+정찰(Oee) = 900
+센스(Oee) = 850
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 162 Then
+이름(Oee) = "문지훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 600
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 163 Then
+이름(Oee) = "박경락"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 850
+전략(Oee) = 700
+물량(Oee) = 500
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 164 Then
+이름(Oee) = "설현호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 700
+물량(Oee) = 650
+수비력(Oee) = 450
+정찰(Oee) = 500
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 165 Then
+이름(Oee) = "신정민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 450
+물량(Oee) = 800
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 166 Then
+이름(Oee) = "윤용태"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 800
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 950
+
+
+
+ElseIf Oee = 167 Then
+이름(Oee) = "임진묵"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "한빛"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 168 Then
+이름(Oee) = "고인규"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 750
+정찰(Oee) = 700
+센스(Oee) = 650
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 169 Then
+이름(Oee) = "권오혁"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 170 Then
+이름(Oee) = "김성제"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 3
+공격력(Oee) = 400
+견제(Oee) = 800
+전략(Oee) = 600
+물량(Oee) = 400
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 550
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 171 Then
+이름(Oee) = "도재욱"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 3
+공격력(Oee) = 800
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 950
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 172 Then
+이름(Oee) = "박대경"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 750
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 173 Then
+이름(Oee) = "박성준"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 2
+공격력(Oee) = 950
+견제(Oee) = 900
+전략(Oee) = 600
+물량(Oee) = 800
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 174 Then
+이름(Oee) = "박용욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 550
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 175 Then
+이름(Oee) = "박태민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 900
+수비력(Oee) = 900
+정찰(Oee) = 850
+센스(Oee) = 650
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 176 Then
+이름(Oee) = "손승재"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 450
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 177 Then
+이름(Oee) = "오충훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 800
+수비력(Oee) = 800
+정찰(Oee) = 650
+센스(Oee) = 500
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 178 Then
+이름(Oee) = "윤종민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 450
+물량(Oee) = 750
+수비력(Oee) = 750
+정찰(Oee) = 700
+센스(Oee) = 450
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 179 Then
+이름(Oee) = "이건준"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 180 Then
+이름(Oee) = "전상욱"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 700
+물량(Oee) = 850
+수비력(Oee) = 900
+정찰(Oee) = 850
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 181 Then
+이름(Oee) = "최연성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "SK"
+종족(Oee) = 1
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 950
+수비력(Oee) = 950
+정찰(Oee) = 850
+센스(Oee) = 850
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 182 Then
+이름(Oee) = "강구열"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 183 Then
+이름(Oee) = "고석현"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 800
+물량(Oee) = 800
+수비력(Oee) = 850
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 184 Then
+이름(Oee) = "김동현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 185 Then
+이름(Oee) = "김재훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 800
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 186 Then
+이름(Oee) = "김태훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 550
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 450
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 187 Then
+이름(Oee) = "김택용"
+랭크(Oee) = "Elite"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 950
+전략(Oee) = 900
+물량(Oee) = 800
+수비력(Oee) = 800
+정찰(Oee) = 950
+센스(Oee) = 950
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 188 Then
+이름(Oee) = "민찬기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 550
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 550
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 189 Then
+이름(Oee) = "박지호"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 900
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 900
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) =600
+
+
+
+ElseIf Oee = 190 Then
+이름(Oee) = "서경종"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 500
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 600
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 191 Then
+이름(Oee) = "이재호"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 800
+전략(Oee) = 600
+물량(Oee) = 800
+수비력(Oee) = 850
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 192 Then
+이름(Oee) = "정영철"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 193 Then
+이름(Oee) = "염보성"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<07>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 700
+전략(Oee) = 750
+물량(Oee) = 900
+수비력(Oee) = 850
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 194 Then
+이름(Oee) = "구성훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 195 Then
+이름(Oee) = "김경모"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 196 Then
+이름(Oee) = "김성곤"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 197 Then
+이름(Oee) = "김정환"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 500
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 198 Then
+이름(Oee) = "박지수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 900
+수비력(Oee) = 950
+정찰(Oee) = 800
+센스(Oee) = 700
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 199 Then
+이름(Oee) = "오영종"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 850
+전략(Oee) = 850
+물량(Oee) = 900
+수비력(Oee) = 550
+정찰(Oee) = 750
+센스(Oee) = 800
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 200 Then
+이름(Oee) = "이유석"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 201 Then
+이름(Oee) = "이제동"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 2
+공격력(Oee) = 900
+견제(Oee) = 950
+전략(Oee) = 700
+물량(Oee) = 850
+수비력(Oee) = 650
+정찰(Oee) = 750
+센스(Oee) = 800
+컨트롤(Oee) = 950
+
+
+
+ElseIf Oee = 202 Then
+이름(Oee) = "이학주"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 500
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 203 Then
+이름(Oee) = "손주흥"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 700
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 204 Then
+이름(Oee) = "손찬웅"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 800
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 700
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 205 Then
+이름(Oee) = "최가람"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "르까프"
+종족(Oee) = 2
+공격력(Oee) = 900
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 400
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 206 Then
+이름(Oee) = "권수현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 207 Then
+이름(Oee) = "김민호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 450
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 208 Then
+이름(Oee) = "김성기"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 850
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 800
+수비력(Oee) = 750
+정찰(Oee) = 700
+센스(Oee) = 600
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 209 Then
+이름(Oee) = "마재윤"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 800
+전략(Oee) = 800
+물량(Oee) = 900
+수비력(Oee) = 900
+정찰(Oee) = 950
+센스(Oee) = 900
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 210 Then
+이름(Oee) = "박영민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 700
+전략(Oee) = 800
+물량(Oee) = 800
+수비력(Oee) = 700
+정찰(Oee) = 750
+센스(Oee) = 750
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 211 Then
+이름(Oee) = "변형태"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 950
+견제(Oee) = 800
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 800
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 212 Then
+이름(Oee) = "서지훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 700
+센스(Oee) = 750
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 213 Then
+이름(Oee) = "손재범"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 214 Then
+이름(Oee) = "장육"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 215 Then
+이름(Oee) = "조병세"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 500
+센스(Oee) = 450
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 216 Then
+이름(Oee) = "주현준"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 217 Then
+이름(Oee) = "한상봉"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 900
+견제(Oee) = 750
+전략(Oee) = 700
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 218 Then
+이름(Oee) = "김광섭"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 2
+공격력(Oee) = 550
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 219 Then
+이름(Oee) = "김상욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 700
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 220 Then
+이름(Oee) = "신상문"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 221 Then
+이름(Oee) = "안상원"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 222 Then
+이름(Oee) = "이승훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 3
+공격력(Oee) = 800
+견제(Oee) = 850
+전략(Oee) = 700
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 800
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 223 Then
+이름(Oee) = "이종미"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 2
+공격력(Oee) = 350
+견제(Oee) = 300
+전략(Oee) = 350
+물량(Oee) = 400
+수비력(Oee) = 400
+정찰(Oee) = 400
+센스(Oee) = 350
+컨트롤(Oee) = 350
+
+
+
+ElseIf Oee = 224 Then
+이름(Oee) = "임원기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 225 Then
+이름(Oee) = "전태규"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 500
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 750
+센스(Oee) = 650
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 226 Then
+이름(Oee) = "차재욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 550
+물량(Oee) = 550
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 227 Then
+이름(Oee) = "곽동훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 550
+견제(Oee) = 500
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 228 Then
+이름(Oee) = "김덕인"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 229 Then
+이름(Oee) = "김민구"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 550
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 230 Then
+이름(Oee) = "김원기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 231 Then
+이름(Oee) = "남승현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 550
+전략(Oee) = 550
+물량(Oee) = 500
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 232 Then
+이름(Oee) = "박문기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 500
+물량(Oee) = 800
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 233 Then
+이름(Oee) = "서기수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 850
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 234 Then
+이름(Oee) = "신상호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 800
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 235 Then
+이름(Oee) = "조용성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 236 Then
+이름(Oee) = "최욱명"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 237 Then
+이름(Oee) = "강도경"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 550
+수비력(Oee) = 450
+정찰(Oee) = 450
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 238 Then
+이름(Oee) = "김선기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 450
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 239 Then
+이름(Oee) = "김환중"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 240 Then
+이름(Oee) = "박대만"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 500
+전략(Oee) = 450
+물량(Oee) = 750
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 241 Then
+이름(Oee) = "성학승"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 242 Then
+이름(Oee) = "이재훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 450
+전략(Oee) = 450
+물량(Oee) = 700
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 450
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 243 Then
+이름(Oee) = "이주영"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 600
+물량(Oee) = 900
+수비력(Oee) = 900
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 244 Then
+이름(Oee) = "임요환"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 800
+전략(Oee) = 950
+물량(Oee) = 500
+수비력(Oee) = 550
+정찰(Oee) = 700
+센스(Oee) = 900
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 245 Then
+이름(Oee) = "조형근"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 700
+물량(Oee) = 500
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 246 Then
+이름(Oee) = "최인규"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 500
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 500
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 247 Then
+이름(Oee) = "김상우"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 550
+전략(Oee) = 550
+물량(Oee) = 500
+수비력(Oee) = 450
+정찰(Oee) = 500
+센스(Oee) = 450
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 248 Then
+이름(Oee) = "김재춘"
+랭크(Oee) = "Special"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 750
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 249 Then
+이름(Oee) = "나도현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 400
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 600
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 250 Then
+이름(Oee) = "박영훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 450
+수비력(Oee) = 450
+정찰(Oee) = 500
+센스(Oee) = 450
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 251 Then
+이름(Oee) = "박세정"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 800
+전략(Oee) = 650
+물량(Oee) = 550
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 252 Then
+이름(Oee) = "박성균"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 900
+수비력(Oee) = 950
+정찰(Oee) = 850
+센스(Oee) = 800
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 253 Then
+이름(Oee) = "손영훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 550
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 550
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 254 Then
+이름(Oee) = "심소명"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 550
+전략(Oee) = 800
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 255 Then
+이름(Oee) = "안기효"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 800
+수비력(Oee) = 550
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 256 Then
+이름(Oee) = "임동혁"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 700
+물량(Oee) = 500
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 450
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 257 Then
+이름(Oee) = "이윤열"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 750
+물량(Oee) = 900
+수비력(Oee) = 800
+정찰(Oee) = 800
+센스(Oee) = 800
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 258 Then
+이름(Oee) = "전태양"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 450
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 259 Then
+이름(Oee) = "한동욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 850
+견제(Oee) = 850
+전략(Oee) = 600
+물량(Oee) = 450
+수비력(Oee) = 450
+정찰(Oee) = 500
+센스(Oee) = 600
+컨트롤(Oee) = 950
+
+
+
+ElseIf Oee = 260 Then
+이름(Oee) = "한동훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<07>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 261 Then
+이름(Oee) = "고강민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 550
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 262 Then
+이름(Oee) = "김대엽"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 700
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 263 Then
+이름(Oee) = "김영진"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 264 Then
+이름(Oee) = "김윤환"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 265 Then
+이름(Oee) = "김재춘"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 266 Then
+이름(Oee) = "박재영"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 900
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 267 Then
+이름(Oee) = "박준우"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 450
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 268 Then
+이름(Oee) = "배병우"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 6000
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 269 Then
+이름(Oee) = "우정호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 270 Then
+이름(Oee) = "이영호"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 750
+전략(Oee) = 850
+물량(Oee) = 900
+수비력(Oee) = 900
+정찰(Oee) = 750
+센스(Oee) = 900
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 271 Then
+이름(Oee) = "이영호1"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 272 Then
+이름(Oee) = "임재덕"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 273 Then
+이름(Oee) = "장주현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 450
+정찰(Oee) = 650
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 274 Then
+이름(Oee) = "정명호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "KTF"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 275 Then
+이름(Oee) = "김동건"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 276 Then
+이름(Oee) = "박동수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 500
+물량(Oee) = 500
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 450
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 277 Then
+이름(Oee) = "박성훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 750
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 278 Then
+이름(Oee) = "손석희"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 550
+견제(Oee) = 500
+전략(Oee) = 600
+물량(Oee) = 500
+수비력(Oee) = 650
+정찰(Oee) = 500
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 279 Then
+이름(Oee) = "송병구"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 850
+전략(Oee) = 800
+물량(Oee) = 850
+수비력(Oee) = 750
+정찰(Oee) = 850
+센스(Oee) = 700
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 280 Then
+이름(Oee) = "유준희"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 281 Then
+이름(Oee) = "이성은"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 800
+전략(Oee) = 750
+물량(Oee) = 800
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 900
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 282 Then
+이름(Oee) = "이재황"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 283 Then
+이름(Oee) = "임채성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 550
+물량(Oee) = 550
+수비력(Oee) = 450
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 284 Then
+이름(Oee) = "임태규"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 550
+수비력(Oee) = 450
+정찰(Oee) = 450
+센스(Oee) = 450
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 285 Then
+이름(Oee) = "주영달"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 286 Then
+이름(Oee) = "차명환"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 287 Then
+이름(Oee) = "최윤선"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 500
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 288 Then
+이름(Oee) = "허영무"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<08>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 850
+전략(Oee) = 750
+물량(Oee) = 850
+수비력(Oee) = 700
+정찰(Oee) = 750
+센스(Oee) = 700
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 289 Then
+이름(Oee) = "김경효"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 290 Then
+이름(Oee) = "김구현"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 800
+견제(Oee) = 900
+전략(Oee) = 850
+물량(Oee) = 800
+수비력(Oee) = 650
+정찰(Oee) = 750
+센스(Oee) = 750
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 291 Then
+이름(Oee) = "김민제"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 292 Then
+이름(Oee) = "김윤중"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 293 Then
+이름(Oee) = "김윤환"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 850
+견제(Oee) = 750
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 750
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 294 Then
+이름(Oee) = "김현우"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 550
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 295 Then
+이름(Oee) = "박성준"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 900
+견제(Oee) = 800
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 296 Then
+이름(Oee) = "박종수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 297 Then
+이름(Oee) = "서지수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 450
+수비력(Oee) = 450
+정찰(Oee) = 500
+센스(Oee) = 450
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 298 Then
+이름(Oee) = "이신형"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 299 Then
+이름(Oee) = "조성호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 300 Then
+이름(Oee) = "조일장"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 301 Then
+이름(Oee) = "진영수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 800
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 750
+센스(Oee) = 750
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 302 Then
+이름(Oee) = "강민구"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 750
+센스(Oee) = 750
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 303 Then
+이름(Oee) = "김남기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 304 Then
+이름(Oee) = "김동주"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 305 Then
+이름(Oee) = "김명운"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 800
+수비력(Oee) = 800
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 306 Then
+이름(Oee) = "김승현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 307 Then
+이름(Oee) = "김인기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 308 Then
+이름(Oee) = "김준영"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 850
+수비력(Oee) = 800
+정찰(Oee) = 800
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 309 Then
+이름(Oee) = "문지훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 310 Then
+이름(Oee) = "신정민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 450
+물량(Oee) = 800
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 311 Then
+이름(Oee) = "윤용태"
+랭크(Oee) = "Special"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 800
+견제(Oee) = 800
+전략(Oee) = 700
+물량(Oee) = 800
+수비력(Oee) = 750
+정찰(Oee) = 800
+센스(Oee) = 650
+컨트롤(Oee) = 950
+
+
+
+ElseIf Oee = 312 Then
+이름(Oee) = "이동준"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 700
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 313 Then
+이름(Oee) = "이형연"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 314 Then
+이름(Oee) = "임진묵"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 315 Then
+이름(Oee) = "정종현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 316 Then
+이름(Oee) = "고인규"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 317 Then
+이름(Oee) = "권오혁"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 318 Then
+이름(Oee) = "김성제"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 3
+공격력(Oee) = 500
+견제(Oee) = 800
+전략(Oee) = 600
+물량(Oee) = 500
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 319 Then
+이름(Oee) = "김택용"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 900
+전략(Oee) = 750
+물량(Oee) = 850
+수비력(Oee) = 750
+정찰(Oee) = 850
+센스(Oee) = 900
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 320 Then
+이름(Oee) = "도재욱"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 3
+공격력(Oee) = 950
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 950
+수비력(Oee) = 650
+정찰(Oee) = 750
+센스(Oee) = 900
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 321 Then
+이름(Oee) = "박대경"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 322 Then
+이름(Oee) = "박재혁"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 323 Then
+이름(Oee) = "박태민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 2
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 700
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 324 Then
+이름(Oee) = "오충훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 550
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 750
+수비력(Oee) = 750
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 325 Then
+이름(Oee) = "윤종민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 326 Then
+이름(Oee) = "이승석"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 2
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 327 Then
+이름(Oee) = "임요환"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 800
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 328 Then
+이름(Oee) = "전상욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 329 Then
+이름(Oee) = "정영철"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 2
+공격력(Oee) = 550
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 330 Then
+이름(Oee) = "최연성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 500
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 331 Then
+이름(Oee) = "강구열"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 600
+전략(Oee) = 750
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 450
+센스(Oee) = 700
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 332 Then
+이름(Oee) = "고석현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 800
+견제(Oee) = 750
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 333 Then
+이름(Oee) = "김동현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 334 Then
+이름(Oee) = "김재훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 800
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 335 Then
+이름(Oee) = "김태훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 500
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 450
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 336 Then
+이름(Oee) = "민찬기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 700
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 337 Then
+이름(Oee) = "박수범"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 338 Then
+이름(Oee) = "박지호"
+랭크(Oee) = "Special"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 900
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 800
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 339 Then
+이름(Oee) = "서경종"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 750
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 340 Then
+이름(Oee) = "염보성"
+랭크(Oee) = "Special"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 800
+수비력(Oee) = 800
+정찰(Oee) = 750
+센스(Oee) = 700
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 341 Then
+이름(Oee) = "이재호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 750
+물량(Oee) = 800
+수비력(Oee) = 750
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 342 Then
+이름(Oee) = "전흥식"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 343 Then
+이름(Oee) = "구성훈"
+랭크(Oee) = "Special"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 344 Then
+이름(Oee) = "김경모"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 345 Then
+이름(Oee) = "김민혁"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 1
+공격력(Oee) = 500
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 500
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 346 Then
+이름(Oee) = "김정환"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 550
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 347 Then
+이름(Oee) = "김태균"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 348 Then
+이름(Oee) = "노영훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 550
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+ElseIf Oee = 349 Then
+이름(Oee) = "박지수"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 800
+전략(Oee) = 800
+물량(Oee) = 850
+수비력(Oee) = 800
+정찰(Oee) = 700
+센스(Oee) = 800
+컨트롤(Oee) =750
+
+ 
+
+ElseIf Oee = 350 Then
+이름(Oee) = "손주흥"
+랭크(Oee) = "Special"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 351 Then
+이름(Oee) = "손찬웅"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 800
+수비력(Oee) = 500
+정찰(Oee) = 700
+센스(Oee) = 800
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 352 Then
+이름(Oee) = "이제동"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 2
+공격력(Oee) = 850
+견제(Oee) = 850
+전략(Oee) = 750
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 900
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 353 Then
+이름(Oee) = "이학주"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 354 Then
+이름(Oee) = "황보건우"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "르까프"
+종족(Oee) = 2
+공격력(Oee) = 500
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 355 Then
+이름(Oee) = "권수현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 356 Then
+이름(Oee) = "김국군"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 550
+물량(Oee) = 550
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 357 Then
+이름(Oee) = "김민호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 450
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 358 Then
+이름(Oee) = "김정우"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 700
+물량(Oee) = 800
+수비력(Oee) = 750
+정찰(Oee) = 700
+센스(Oee) = 750
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 359 Then
+이름(Oee) = "박영민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 3
+공격력(Oee) = 800
+견제(Oee) = 600
+전략(Oee) = 750
+물량(Oee) = 800
+수비력(Oee) = 650
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 360 Then
+이름(Oee) = "변형태"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 800
+전략(Oee) = 650
+물량(Oee) = 800
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 361 Then
+이름(Oee) = "서지훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 362 Then
+이름(Oee) = "손재범"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 363 Then
+이름(Oee) = "조병세"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 364 Then
+이름(Oee) = "주현준"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 365 Then
+이름(Oee) = "진영화"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 366 Then
+이름(Oee) = "한상봉"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 900
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 600
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 367 Then
+이름(Oee) = "김광섭"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 368 Then
+이름(Oee) = "김상욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 369 Then
+이름(Oee) = "김학수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 550
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 370 Then
+이름(Oee) = "신상문"
+랭크(Oee) = "Legend"
+OYear(Oee) = "<08>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 1
+공격력(Oee) = 950
+견제(Oee) = 800
+전략(Oee) = 750
+물량(Oee) = 800
+수비력(Oee) = 750
+정찰(Oee) = 750
+센스(Oee) = 900
+컨트롤(Oee) = 950
+
+
+
+ElseIf Oee = 371 Then
+이름(Oee) = "정명훈"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<08>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 750
+전략(Oee) = 800
+물량(Oee) = 800
+수비력(Oee) = 800
+정찰(Oee) = 650
+센스(Oee) = 850
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 372 Then
+이름(Oee) = "안상원"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 750
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 373 Then
+이름(Oee) = "이경민"
+랭크(Oee) = "Special"
+OYear(Oee) = "<08>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 750
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 374 Then
+이름(Oee) = "이승훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 750
+전략(Oee) = 700
+물량(Oee) = 700
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 375 Then
+이름(Oee) = "임원기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 700
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 376 Then
+이름(Oee) = "조재걸"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "온게임넷"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 377 Then
+이름(Oee) = "김지성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 500
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 378 Then
+이름(Oee) = "남승현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 379 Then
+이름(Oee) = "박문기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 750
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 380 Then
+이름(Oee) = "박상우"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 900
+수비력(Oee) = 750
+정찰(Oee) = 700
+센스(Oee) = 750
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 381 Then
+이름(Oee) = "서기수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 382 Then
+이름(Oee) = "신대근"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 383 Then
+이름(Oee) = "신상호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 384 Then
+이름(Oee) = "안수형"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 385 Then
+이름(Oee) = "이호준"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 1
+공격력(Oee) = 550
+견제(Oee) = 500
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 750
+정찰(Oee) = 700
+센스(Oee) = 600
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 386 Then
+이름(Oee) = "최지성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 500
+물량(Oee) = 500
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 387 Then
+이름(Oee) = "김선기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 388 Then
+이름(Oee) = "김환중"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 389 Then
+이름(Oee) = "박대만"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 389 Then
+이름(Oee) = "박정석"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 390 Then
+이름(Oee) = "성학승"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 750
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+ElseIf Oee = 391 Then
+이름(Oee) = "오영종"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 800
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 392 Then
+이름(Oee) = "이재훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 393 Then
+이름(Oee) = "이주영"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 394 Then
+이름(Oee) = "차재욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 550
+물량(Oee) = 550
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 395 Then
+이름(Oee) = "한동욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 7550
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 450
+정찰(Oee) = 500
+센스(Oee) = 650
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 396 Then
+이름(Oee) = "홍진호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "공군"
+종족(Oee) = 2
+공격력(Oee) = 800
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 500
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 397 Then
+이름(Oee) = "김성진"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 500
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 398 Then
+이름(Oee) = "박성균"
+랭크(Oee) = "Special"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 750
+전략(Oee) = 700
+물량(Oee) = 800
+수비력(Oee) = 850
+정찰(Oee) = 750
+센스(Oee) = 800
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 399 Then
+이름(Oee) = "박세정"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 400 Then
+이름(Oee) = "손영훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 550
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 550
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 401 Then
+이름(Oee) = "신노열"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 402 Then
+이름(Oee) = "안기효"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 403 Then
+이름(Oee) = "이영한"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 404 Then
+이름(Oee) = "이윤열"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 700
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 405 Then
+이름(Oee) = "임동혁"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 406 Then
+이름(Oee) = "전태양"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 750
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 407 Then
+이름(Oee) = "한동훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<08>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 408 Then
+이름(Oee) = "고강민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 700
+센스(Oee) = 600
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 409 Then
+이름(Oee) = "김대엽"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 410 Then
+이름(Oee) = "김재춘"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 411 Then
+이름(Oee) = "남승현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 412 Then
+이름(Oee) = "박재영"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 3
+공격력(Oee) = 550
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 800
+수비력(Oee) = 700
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 413 Then
+이름(Oee) = "박지수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 1
+공격력(Oee) = 850
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 800
+정찰(Oee) = 700
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 414 Then
+이름(Oee) = "박찬수"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 2
+공격력(Oee) = 900
+견제(Oee) = 800
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 800
+정찰(Oee) = 750
+센스(Oee) = 800
+컨트롤(Oee) = 950
+
+
+
+ElseIf Oee = 415 Then
+이름(Oee) = "배병우"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 550
+정찰(Oee) = 700
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 416 Then
+이름(Oee) = "우정호"
+랭크(Oee) = "Elite"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 3
+공격력(Oee) = 800
+견제(Oee) = 800
+전략(Oee) = 750
+물량(Oee) = 850
+수비력(Oee) = 850
+정찰(Oee) = 850
+센스(Oee) = 750
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 417 Then
+이름(Oee) = "이영호"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 700
+전략(Oee) = 750
+물량(Oee) = 950
+수비력(Oee) = 900
+정찰(Oee) = 800
+센스(Oee) = 950
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 418 Then
+이름(Oee) = "황병영"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "KT"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 750
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 419 Then
+이름(Oee) = "박대호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 420 Then
+이름(Oee) = "박동수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 421 Then
+이름(Oee) = "손석희"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 700
+전략(Oee) = 800
+물량(Oee) = 850
+수비력(Oee) = 750
+정찰(Oee) = 700
+센스(Oee) = 800
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 422 Then
+이름(Oee) = "유준희"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 423 Then
+이름(Oee) = "이성은"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 800
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 650
+센스(Oee) = 800
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 424 Then
+이름(Oee) = "이재황"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 425 Then
+이름(Oee) = "이정현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 500
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 426 Then
+이름(Oee) = "임채성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 550
+수비력(Oee) = 450
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 427 Then
+이름(Oee) = "임태규"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 450
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 428 Then
+이름(Oee) = "주영달"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 429 Then
+이름(Oee) = "차명환"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 750
+물량(Oee) = 700
+수비력(Oee) = 750
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 430 Then
+이름(Oee) = "최윤선"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 431 Then
+이름(Oee) = "허영무"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<09>"
+Team(Oee) = "삼성전자"
+종족(Oee) = 3
+공격력(Oee) = 800
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 800
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 432 Then
+이름(Oee) = "김경효"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 433 Then
+이름(Oee) = "김구현"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 800
+전략(Oee) = 700
+물량(Oee) = 850
+수비력(Oee) = 650
+정찰(Oee) = 700
+센스(Oee) = 800
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 434 Then
+이름(Oee) = "김동건"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 435 Then
+이름(Oee) = "김성현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 70
+정찰(Oee) = 60
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 436 Then
+이름(Oee) = "김윤중"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 800
+수비력(Oee) = 550
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 437 Then
+이름(Oee) = "김윤환1"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 850
+견제(Oee) = 750
+전략(Oee) = 900
+물량(Oee) = 750
+수비력(Oee) = 800
+정찰(Oee) = 800
+센스(Oee) = 900
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 438 Then
+이름(Oee) = "김현우"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee =439  Then
+이름(Oee) = "박성준"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 900
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 440 Then
+이름(Oee) = "박종수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 441 Then
+이름(Oee) = "서지수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 450
+수비력(Oee) = 450
+정찰(Oee) = 500
+센스(Oee) = 450
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 442 Then
+이름(Oee) = "이신형"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 500
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 443 Then
+이름(Oee) = "조성호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 444 Then
+이름(Oee) = "조일장"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 2
+공격력(Oee) = 800
+견제(Oee) = 750
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 445 Then
+이름(Oee) = "진영수"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "STX"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 850
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 750
+센스(Oee) = 750
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 446 Then
+이름(Oee) = "강민구"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 447 Then
+이름(Oee) = "김동주"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 448 Then
+이름(Oee) = "김명운"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 750
+물량(Oee) = 800
+수비력(Oee) = 800
+정찰(Oee) = 850
+센스(Oee) = 700
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 449 Then
+이름(Oee) = "김승현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 750
+전략(Oee) = 700
+물량(Oee) = 800
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 450 Then
+이름(Oee) = "김영진"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 451 Then
+이름(Oee) = "노준규"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee =452  Then
+이름(Oee) = "박대만"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 00
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 453 Then
+이름(Oee) = "박정훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 550
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 454 Then
+이름(Oee) = "윤용태"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 3
+공격력(Oee) = 800
+견제(Oee) = 750
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 900
+
+
+
+ElseIf Oee = 455 Then
+이름(Oee) = "이동준"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) =600
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 700
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 456 Then
+이름(Oee) = "임정현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 550
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 450
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 457 Then
+이름(Oee) = "임진묵"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 750
+센스(Oee) = 600
+컨트롤(Oee) = 850
+
+
+
+ElseIf Oee = 458 Then
+이름(Oee) = "정종현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 459 Then
+이름(Oee) = "한상봉"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<09>"
+Team(Oee) = "웅진"
+종족(Oee) = 2
+공격력(Oee) = 900
+견제(Oee) = 850
+전략(Oee) = 700
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 700
+센스(Oee) = 750
+컨트롤(Oee) = 950
+
+
+
+ElseIf Oee = 460 Then
+이름(Oee) = "고인규"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 461 Then
+이름(Oee) = "권오혁"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 3
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 462 Then
+이름(Oee) = "김택용"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 900
+전략(Oee) = 750
+물량(Oee) = 800
+수비력(Oee) = 750
+정찰(Oee) = 900
+센스(Oee) = 850
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 463 Then
+이름(Oee) = "도재욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 3
+공격력(Oee) = 900
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 950
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 464 Then
+이름(Oee) = "박재혁"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 700
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 750
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 465 Then
+이름(Oee) = "어윤수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 500
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 466 Then
+이름(Oee) = "이승석"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 467 Then
+이름(Oee) = "임요환"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 800
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 468 Then
+이름(Oee) = "정명훈"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 800
+전략(Oee) = 800
+물량(Oee) = 800
+수비력(Oee) = 900
+정찰(Oee) = 750
+센스(Oee) = 850
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 469 Then
+이름(Oee) = "정영철"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 470 Then
+이름(Oee) = "최연성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 550
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 471 Then
+이름(Oee) = "최호선"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "SKT"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 650
+정찰(Oee) = 500
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 472 Then
+이름(Oee) = "고석현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 800
+견제(Oee) = 750
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 473 Then
+이름(Oee) = "김동현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 474 Then
+이름(Oee) = "김재훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 475 Then
+이름(Oee) = "김태훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 500
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 476 Then
+이름(Oee) = "박수범"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 477 Then
+이름(Oee) = "박지호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 800
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 478 Then
+이름(Oee) = "서경종"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 750
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 479 Then
+이름(Oee) = "염보성"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 850
+수비력(Oee) = 800
+정찰(Oee) = 800
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 480 Then
+이름(Oee) = "이재호"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 800
+전략(Oee) = 750
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 800
+센스(Oee) = 750
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 481 Then
+이름(Oee) = "임성진"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 500
+수비력(Oee) = 500
+정찰(Oee) = 650
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 482 Then
+이름(Oee) = "장민철"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 483 Then
+이름(Oee) = "전흥식"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 484 Then
+이름(Oee) = "정우서"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "MBC"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 485 Then
+이름(Oee) = "강동현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 450
+물량(Oee) = 550
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 450
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 486 Then
+이름(Oee) = "구성훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 1
+공격력(Oee) = 850
+견제(Oee) = 750
+전략(Oee) = 750
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 487 Then
+이름(Oee) = "김경모"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 500
+물량(Oee) = 600
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 488 Then
+이름(Oee) = "김민혁"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 550
+수비력(Oee) = 500
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 489 Then
+이름(Oee) = "김태균"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 490 Then
+이름(Oee) = "노영훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 450
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 491 Then
+이름(Oee) = "박준오"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 2
+공격력(Oee) = 800
+견제(Oee) = 700
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 700
+센스(Oee) = 550
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 492 Then
+이름(Oee) = "방태수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 500
+수비력(Oee) = 450
+정찰(Oee) = 450
+센스(Oee) = 450
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 493 Then
+이름(Oee) = "손주흥"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 700
+수비력(Oee) = 750
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 494 Then
+이름(Oee) = "손찬웅"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 900
+전략(Oee) = 00
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 495 Then
+이름(Oee) = "이제동"
+랭크(Oee) = "Unique"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 2
+공격력(Oee) = 900
+견제(Oee) = 900
+전략(Oee) = 750
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 950
+컨트롤(Oee) =  950
+
+
+
+ElseIf Oee = 496 Then
+이름(Oee) = "이학주"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 497 Then
+이름(Oee) = "임원기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "화승"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 700
+센스(Oee) = 550
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 498 Then
+이름(Oee) = "권수현"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 499 Then
+이름(Oee) = "김민호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 500 Then
+이름(Oee) = "김정우"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 800
+전략(Oee) = 650
+물량(Oee) = 850
+수비력(Oee) = 800
+정찰(Oee) = 850
+센스(Oee) = 750
+컨트롤(Oee) = 750
+
+
+ElseIf Oee = 501 Then
+이름(Oee) = "변형태"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 900
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 502 Then
+이름(Oee) = "손재범"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 503 Then
+이름(Oee) = "신동원"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 504 Then
+이름(Oee) = "이재훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 550
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 505 Then
+이름(Oee) = "이주영"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 750
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 506 Then
+이름(Oee) = "장윤철"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 507 Then
+이름(Oee) = "조병세"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 1
+공격력(Oee) = 900
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 750
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 508 Then
+이름(Oee) = "진영화"
+랭크(Oee) = "Rare"
+OYear(Oee) = "<09>"
+Team(Oee) = "CJ"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 750
+물량(Oee) = 800
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 750
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 509 Then
+이름(Oee) = "김상욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "하이트"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 700
+전략(Oee) = 600
+물량(Oee) = 800
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 510 Then
+이름(Oee) = "김학수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "하이트"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 550
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 511 Then
+이름(Oee) = "신상문"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "하이트"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 800
+전략(Oee) = 750
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 700
+센스(Oee) = 850
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 512 Then
+이름(Oee) = "안준영"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "하이트"
+종족(Oee) = 2
+공격력(Oee) = 550
+견제(Oee) = 550
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 513 Then
+이름(Oee) = "이경민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "하이트"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 850
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 514 Then
+이름(Oee) = "김도우"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 550
+물량(Oee) = 600
+수비력(Oee) = 650
+정찰(Oee) = 500
+센스(Oee) = 450
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 515 Then
+이름(Oee) = "김성대"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 500
+물량(Oee) = 700
+수비력(Oee) = 650
+정찰(Oee) = 650
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 516 Then
+이름(Oee) = "박상우"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 900
+수비력(Oee) = 850
+정찰(Oee) = 750
+센스(Oee) = 750
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 5117 Then
+이름(Oee) = "서기수"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 518 Then
+이름(Oee) = "신대근"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 750
+물량(Oee) = 700
+수비력(Oee) = 800
+정찰(Oee) = 700
+센스(Oee) = 700
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 519 Then
+이름(Oee) = "신상호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 520 Then
+이름(Oee) = "신재욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 600
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 800
+정찰(Oee) = 700
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 521 Then
+이름(Oee) = "안수형"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 500
+전략(Oee) = 500
+물량(Oee) = 650
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 500
+
+
+
+ElseIf Oee = 522 Then
+이름(Oee) = "정명호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 550
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 523 Then
+이름(Oee) = "최지성"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "eSTRO"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 600
+수비력(Oee) = 550
+정찰(Oee) = 500
+센스(Oee) = 500
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 524 Then
+이름(Oee) = "민찬기"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 750
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 525 Then
+이름(Oee) = "박영민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 650
+전략(Oee) = 750
+물량(Oee) = 800
+수비력(Oee) = 650
+정찰(Oee) = 700
+센스(Oee) = 600
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 526 Then
+이름(Oee) = "박정석"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 750
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 500
+정찰(Oee) = 600
+센스(Oee) = 550
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 527 Then
+이름(Oee) = "박태민"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "공군"
+종족(Oee) = 2
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 700
+정찰(Oee) = 700
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 527 Then
+이름(Oee) = "서지훈"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 528 Then
+이름(Oee) = "오영종"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 800
+수비력(Oee) = 700
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 700
+
+
+
+ElseIf Oee = 529 Then
+이름(Oee) = "차재욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 500
+전략(Oee) = 550
+물량(Oee) = 550
+수비력(Oee) = 650
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 550
+
+
+
+ElseIf Oee = 530 Then
+이름(Oee) = "한동욱"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "공군"
+종족(Oee) = 1
+공격력(Oee) = 800
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 600
+수비력(Oee) = 450
+정찰(Oee) = 500
+센스(Oee) = 600
+컨트롤(Oee) = 800
+
+
+
+ElseIf Oee = 531 Then
+이름(Oee) = "홍진호"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "공군"
+종족(Oee) = 3
+공격력(Oee) = 850
+견제(Oee) = 750
+전략(Oee) = 750
+물량(Oee) = 500
+수비력(Oee) = 500
+정찰(Oee) = 500
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 531 Then
+이름(Oee) = "강정우"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 550
+전략(Oee) = 600
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 550
+컨트롤(Oee) = 600
+
+
+
+ElseIf Oee = 532 Then
+이름(Oee) = "박성균"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 700
+견제(Oee) = 700
+전략(Oee) = 650
+물량(Oee) = 750
+수비력(Oee) = 800
+정찰(Oee) = 750
+센스(Oee) = 700
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 533 Then
+이름(Oee) = "박세정"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 700
+전략(Oee) = 700
+물량(Oee) = 750
+수비력(Oee) = 00
+정찰(Oee) = 600
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 534 Then
+이름(Oee) = "신노열"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "위메이드"
+종족(Oee) = 2
+공격력(Oee) = 700
+견제(Oee) = 750
+전략(Oee) = 550
+물량(Oee) = 650
+수비력(Oee) = 700
+정찰(Oee) = 700
+센스(Oee) = 600
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 535 Then
+이름(Oee) = "안기효"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 600
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 536 Then
+이름(Oee) = "이영한"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "위메이드"
+종족(Oee) = 2
+공격력(Oee) = 850
+견제(Oee) = 750
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 550
+정찰(Oee) = 600
+센스(Oee) = 600
+컨트롤(Oee) = 750
+
+
+
+ElseIf Oee = 537 Then
+이름(Oee) = "이영호1"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "위메이드"
+종족(Oee) = 3
+공격력(Oee) = 700
+견제(Oee) = 600
+전략(Oee) = 650
+물량(Oee) = 650
+수비력(Oee) = 550
+정찰(Oee) = 550
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 538 Then
+이름(Oee) = "전상욱"
+랭크(Oee) = "Special"
+OYear(Oee) = "<09>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 650
+견제(Oee) = 650
+전략(Oee) = 650
+물량(Oee) = 700
+수비력(Oee) = 700
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 650
+
+
+
+ElseIf Oee = 539 Then
+이름(Oee) = "전태양"
+랭크(Oee) = "Normal"
+OYear(Oee) = "<09>"
+Team(Oee) = "위메이드"
+종족(Oee) = 1
+공격력(Oee) = 600
+견제(Oee) = 600
+전략(Oee) = 600
+물량(Oee) = 750
+수비력(Oee) = 800
+정찰(Oee) = 650
+센스(Oee) = 650
+컨트롤(Oee) = 650

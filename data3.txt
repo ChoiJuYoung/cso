@@ -1,0 +1,41 @@
+  If val(MyNW(선택)) = 16 Then
+   If MW >= 1 Then
+    MyNW(선택) = 8
+    AAA = 1
+   ElseIf OW >= 1 Then
+    MyNW(선택) = 16
+    AAA = 1
+   End If
+  ElseIf val(MyNW(선택)) = 8 Then
+   If MW >= 2 Then
+    MyNW(선택) = 4
+    AAA = 1
+   ElseIf OW >= 2 Then
+    MyNW(선택) = 16
+    AAA = 1
+   End If
+  ElseIf val(MyNW(선택)) = 4 Then
+   If MW >= 3 Then
+    MyNW(선택) = "Final"
+    AAA = 1
+   ElseIf OW >= 3 Then
+    MyNW(선택) = 16
+    AAA = 1
+   End If
+  ElseIf MyNW(선택) = "Final" Then
+   If MW >= 3 Then
+    MsgBox "☆☆☆☆우승★★★★"
+    MyVic(선택) = val(MyVic(선택)) + 1
+    준우승(Oee) = val(준우승(Oee)) + 1
+    Money = val(Money) + 3000
+    MyNW(선택) = 16
+    AAA = 1
+   ElseIf OW >= 3 Then
+    MsgBox "☆☆준우승★★"
+    MySeVic(선택) = val(MySeVic(선택)) + 1
+    우승(Oee) = val(우승(Oee)) + 1
+    Money = val(Money) + 1500
+    MyNW(선택) = 16
+    AAA = 1
+   End If
+  End If
